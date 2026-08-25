@@ -1,0 +1,295 @@
+{
+  "id": 9,
+  "number": 9,
+  "title": "Módulo 9 — Ambiente Escolar, Particípio e Grafia X/CH",
+  "subtitle": "Formalidade acadêmica, interjeições expressivas, particípio ('deveria ter feito') e o caso ortográfico x/ch",
+  "thematicContext": "Vida Acadêmica, Relações Escolares e Sentimentos de Arrependimento",
+  "estimatedMinutes": 50,
+  "grammarTopics": [
+    {
+      "id": "m9-g1",
+      "title": "Particípio e Formas Nominais (Expressão de Arrependimento e Dever)",
+      "category": "Morfologia Verbal e Tempos Compostos",
+      "summary": "Uso da locução 'Deveria / Poderia + ter + Particípio' para expressar hipóteses não realizadas no passado, arrependimento ou crítica construtiva.",
+      "rules": [
+        {
+          "title": "Estruturas de Arrependimento no Passado",
+          "description": "Combinação do Futuro do Pretérito do auxiliar com particípio passado.",
+          "table": {
+            "headers": [
+              "Estrutura",
+              "Sentido",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Deveria ter + particípio",
+                "Obrigação moral ou conselho não cumprido no passado",
+                "Eu deveria ter estudado mais para o exame final."
+              ],
+              [
+                "Poderia ter + particípio",
+                "Possibilidade que não se concretizou",
+                "Nós poderíamos ter entregue o artigo ontem."
+              ],
+              [
+                "Teria sido melhor + infinitivo",
+                "Avaliação retrospectiva",
+                "Teria sido melhor conversar com o orientador antes."
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Particípios Regulares e Irregulares (Abundantes)",
+          "description": "Verbos com duplo particípio usam a forma regular com TER/HAVER e a irregular com SER/ESTAR.",
+          "table": {
+            "headers": [
+              "Verbo",
+              "Com TER / HAVER (Regular em -do)",
+              "Com SER / ESTAR (Irregular)",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Imprimir",
+                "tinha imprimido",
+                "foi impresso",
+                "Ele tinha imprimido o trabalho. / O livro foi impresso."
+              ],
+              [
+                "Entregar",
+                "tinha entregado",
+                "foi entregue",
+                "Ela tinha entregado a tese. / A nota foi entregue."
+              ],
+              [
+                "Salvar",
+                "havia salvado",
+                "estava salvo",
+                "Tinha salvado o arquivo. / O arquivo estava salvo."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Eu deveria ter prestado mais atenção nas instruções do professor.",
+          "en": "I should have paid more attention to the professor's instructions.",
+          "highlight": "deveria ter prestado"
+        },
+        {
+          "pt": "O relatório já tinha sido impresso quando percebemos o erro.",
+          "en": "The report had already been printed when we noticed the error.",
+          "highlight": "tinha sido impresso"
+        }
+      ]
+    },
+    {
+      "id": "m9-g2",
+      "title": "Formalidade vs. Informalidade e Interjeições",
+      "category": "Sociolinguística e Pragmática",
+      "summary": "Distinção entre a linguagem formal acadêmica e o registro coloquial estudantil repleto de interjeições (Ufa!, Eita!, Oxente!, Caramba!).",
+      "rules": [
+        {
+          "title": "Interjeições Populares no Brasil",
+          "description": "Palavras que traduzem estados emotivos imediatos.",
+          "table": {
+            "headers": [
+              "Interjeição",
+              "Sentimento Expressado",
+              "Exemplo de Uso"
+            ],
+            "rows": [
+              [
+                "Ufa!",
+                "Alívio após tensão ou esforço",
+                "Ufa! Entreguei o TCC a tempo!"
+              ],
+              [
+                "Eita! / Eita nós!",
+                "Surpresa, susto ou espanto",
+                "Eita! Esqueci que a prova é amanhã!"
+              ],
+              [
+                "Caramba! / Puxa!",
+                "Admiração, indignação ou surpresa",
+                "Puxa, a nota de corte foi altíssima."
+              ],
+              [
+                "Oxente! / Vixe!",
+                "Espanto regional (Nordeste)",
+                "Oxente! Como o prazo acabou tão rápido?"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Ufa! Finalmente terminamos as apresentações do seminário!",
+          "en": "Phew! We finally finished the seminar presentations!",
+          "highlight": "Ufa!"
+        }
+      ]
+    },
+    {
+      "id": "m9-g3",
+      "title": "Ortografia: O Caso do X vs. CH",
+      "category": "Ortografia Oficial",
+      "summary": "Regras sistemáticas para saber quando grafar com 'X' ou com 'CH'.",
+      "rules": [
+        {
+          "title": "Regras do Uso do X",
+          "description": "Emprega-se a letra 'X' nos seguintes casos consagrados:",
+          "items": [
+            "1. Depois de ditongo: caixa, frouxo, peixe, ameixa, queixa, faixa",
+            "2. Depois da sílaba inicial 'EN-': enxada, enxaqueca, enxame, enxugar (exceção: palavras derivadas de primitivas com ch, como encher [cheio], encharcar [charco])",
+            "3. Depois da sílaba inicial 'ME-': mexer, mexicano, mexilhão (exceção: mecha de cabelo)",
+            "4. Palavras de origem indígena ou africana: xavante, xaxim, xará, xingar"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Depois do ditongo 'ei', escreve-se peixe com 'x', assim como caixa com 'x'.",
+          "en": "After the diphthong 'ei', 'peixe' is written with 'x', as is 'caixa' with 'x'.",
+          "highlight": "peixe / caixa"
+        },
+        {
+          "pt": "Por favor, não mexa nas gavetas antes de enxugar o chão molhado.",
+          "en": "Please do not touch the drawers before wiping the wet floor dry.",
+          "highlight": "mexa (após me-) / enxugar (após en-)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Vida Universitária, Seminários e Provas",
+    "culturalNotes": "No ensino superior brasileiro, o Trabalho de Conclusão de Curso (TCC) ou Monografia é requisito obrigatório na maioria das graduações, defendido perante banca examinadora. As notas variam de 0 a 10, exigindo geralmente média mínima 6,0 ou 7,0 para aprovação.",
+    "dialogue": [
+      {
+        "speaker": "Aluno A",
+        "text": "Eita! Você viu que o professor prorrogou a entrega do artigo para sexta?",
+        "translation": "Whoa! Did you see that the professor extended the paper deadline to Friday?"
+      },
+      {
+        "speaker": "Aluno B",
+        "text": "Ufa, que alívio! Eu deveria ter começado a bibliografia semana passada, mas fiquei sobrecarregado.",
+        "translation": "Phew, what a relief! I should have started the bibliography last week, but I was overwhelmed."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Banca examinadora",
+        "translation": "Examination board / evaluation committee",
+        "example": "A banca examinadora aprovou a dissertação com louvor."
+      },
+      {
+        "word": "Trabalho de Conclusão de Curso (TCC)",
+        "translation": "Senior thesis / capstone project",
+        "example": "Estou na fase final de redação do meu TCC."
+      },
+      {
+        "word": "Grade curricular",
+        "translation": "Curriculum / course schedule",
+        "example": "Confira as disciplinas obrigatórias na grade curricular do curso."
+      },
+      {
+        "word": "Monitoria",
+        "translation": "Teaching assistantship / tutoring",
+        "example": "Fui selecionado para a monitoria de Língua Portuguesa."
+      },
+      {
+        "word": "Trancar a matrícula",
+        "translation": "Defer / freeze enrollment",
+        "example": "Por motivos de saúde, ele precisou trancar a matrícula este semestre."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Eu deveria ter me planejado com antecedência.",
+        "translation": "I should have planned ahead.",
+        "situation": "Expressar arrependimento por prazo"
+      },
+      {
+        "phrase": "Solicito revisão da correção da questão número 3.",
+        "translation": "I request a grade review for question number 3.",
+        "situation": "Requerimento formal acadêmico"
+      },
+      {
+        "phrase": "Tirei a nota necessária para passar direto.",
+        "translation": "I got the required grade to pass without finals.",
+        "situation": "Comemoração de aprovação"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m9-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a frase que expressa um sentimento de ARREPENDIMENTO ou dever não realizado no passado:",
+      "options": [
+        "Eu deveria ter revisado o texto antes de enviá-lo para a banca.",
+        "Eu vou revisar o texto amanhã pela manhã.",
+        "Eu reviso o texto todos os dias com atenção.",
+        "Eu deverei revisar se houver tempo livre."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Deveria ter revisado' (dever no futuro do pretérito + ter + particípio) expressa com exatidão arrependimento retrospectivo."
+    },
+    {
+      "id": "m9-p2",
+      "type": "multiple-choice",
+      "question": "De acordo com as regras ortográficas do 'X', qual palavra está grafada CORRETAMENTE com X após ditongo?",
+      "options": [
+        "Caixa",
+        "Caicha",
+        "Peiche",
+        "Queicha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Após ditongos (ai, ei, ou), usa-se 'x' (caixa, peixe, queixa, frouxo)."
+    },
+    {
+      "id": "m9-p3",
+      "type": "fill-in-blank",
+      "question": "Qual interjeição expressa alívio após a superação de um momento difícil? '________! O prazo da prova foi estendido!'",
+      "options": [
+        "Ufa",
+        "Ai",
+        "Psiu",
+        "Credo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Ufa!' é a interjeição clássica da língua portuguesa para expressar alívio ou desabafo de cansaço."
+    },
+    {
+      "id": "m9-p4",
+      "type": "multiple-choice",
+      "question": "Por que o verbo 'encher' se escreve com CH, mesmo iniciando com 'en-'?",
+      "options": [
+        "Porque é uma palavra derivada do adjetivo 'cheio' (que se escreve com ch).",
+        "Porque é uma exceção arbitrária sem motivo etimológico.",
+        "Porque todas as palavras começadas por 'en' são grafadas com ch.",
+        "Porque o acordo ortográfico aboliu o x nessa palavra."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Palavras derivadas de primitivas com ch mantêm o dígrafo ch na família de palavras (cheio → encher, enchente, enchimento)."
+    },
+    {
+      "id": "m9-p5",
+      "type": "multiple-choice",
+      "question": "Escolha a forma correta do particípio: 'O orientador já havia ________ todos os artigos submetidos.'",
+      "options": [
+        "entregado",
+        "entregue",
+        "entregado ou entregue (ambos aceitos com ter/haver)",
+        "entregando"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Com os auxiliares ter/haver, a norma tradicional prefere o particípio regular (entregado), mas a variante irregular (entregue) é amplamente aceita no Brasil contemporâneo."
+    }
+  ]
+}

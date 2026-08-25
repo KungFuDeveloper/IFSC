@@ -1,0 +1,265 @@
+{
+  "id": 17,
+  "number": 17,
+  "title": "Módulo 17 — Diversidade Cultural e Texto Dissertativo",
+  "subtitle": "Estrutura dissertativa-argumentativa (Introdução, Desenvolvimento, Conclusão), expressões argumentativas e encontros consonantais",
+  "thematicContext": "Diversidade Étnico-Cultural Brasileira, Cidadania e Ensaios de Opinião",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m17-g1",
+      "title": "Estrutura do Texto Dissertativo-Argumentativo",
+      "category": "Tipologia Textual e Redação",
+      "summary": "A redação dissertativo-argumentativa (padrão ENEM/Celpe-Bras) defende uma tese por meio de argumentos consistentes e proposta de intervenção.",
+      "rules": [
+        {
+          "title": "Os Três Pilares da Redação Argumentativa",
+          "description": "Articulação lógica dos parágrafos.",
+          "table": {
+            "headers": [
+              "Parte do Texto",
+              "Função Estrutural",
+              "Recursos Linguísticos Chave"
+            ],
+            "rows": [
+              [
+                "Introdução",
+                "Apresenta o tema, contextualiza e formula a Tese central",
+                "Sabe-se que... / No cenário contemporâneo... / Torna-se imperativo discutir..."
+              ],
+              [
+                "Desenvolvimento (D1 e D2)",
+                "Sustenta a tese com dados, repertório sociocultural e causas/efeitos",
+                "Em primeiro plano... / Ademais... / É perceptível que... / Constata-se que..."
+              ],
+              [
+                "Conclusão",
+                "Reafirma a tese e apresenta proposta de intervenção detalhada",
+                "Portanto, cabe ao Poder Público... / Infere-se, portanto, que... / Com o intuito de..."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "É perceptível que a valorização da herança afro-brasileira e indígena enriquece a identidade nacional e combate o preconceito estrutural.",
+          "en": "It is noticeable that the appreciation of Afro-Brazilian and indigenous heritage enriches national identity and combats structural prejudice.",
+          "highlight": "É perceptível que"
+        }
+      ]
+    },
+    {
+      "id": "m17-g2",
+      "title": "Expressões Argumentativas e Operadores Discursivos",
+      "category": "Coesão e Argumentação",
+      "summary": "Fórmulas de autoridade, concessão e refutação para elevar a qualidade do discurso opinativo.",
+      "rules": [
+        {
+          "title": "Arsenal de Conectivos e Expressões Argumentativas",
+          "description": "Expressões indispensáveis para debates e redações formais.",
+          "table": {
+            "headers": [
+              "Intenção Discursiva",
+              "Expressões Típicas"
+            ],
+            "rows": [
+              [
+                "Constatação evidente",
+                "É notório que..., É perceptível que..., Percebe-se que..., Constata-se que..."
+              ],
+              [
+                "Relevância / Destaque",
+                "É relevante destacar que..., Cumpre ressaltar que..., Vale salientar que..."
+              ],
+              [
+                "Contra-argumentação",
+                "Alguns pensam que..., Contudo há que se considerar que..., Embora muitos afirmem..."
+              ],
+              [
+                "Causa e Efeito",
+                "Em decorrência de..., Haja vista que..., Por conseguinte..."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "É relevante enfatizar que a pluralidade cultural brasileira não é homogênea, mas construída por múltiplos saberes regionais.",
+          "en": "It is relevant to emphasize that Brazilian cultural plurality is not homogeneous, but constructed by multiple regional knowledges.",
+          "highlight": "É relevante enfatizar que"
+        }
+      ]
+    },
+    {
+      "id": "m17-g3",
+      "title": "Encontros Consonantais e Fonética",
+      "category": "Fonética e Ortografia",
+      "summary": "O encontro consonantal é a sequência de duas ou mais consoantes na palavra sem vogal intermediária, onde CADA consoante preserva seu som audível (diferente do dígrafo).",
+      "rules": [
+        {
+          "title": "Tipos de Encontros Consonantais",
+          "description": "Classificação em perfeitos (inseparáveis) e imperfeitos (separáveis).",
+          "table": {
+            "headers": [
+              "Tipo",
+              "Características",
+              "Separação Silábica",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Perfeito (Inseparável)",
+                "Consoante + L ou R na mesma sílaba",
+                "Ficam na mesma sílaba",
+                "prá-ti-ca, bra-sil, cla-ro, flo-res, pla-no"
+              ],
+              [
+                "Imperfeito (Separável)",
+                "Consoantes que pertencem a sílabas distintas",
+                "Ficam em sílabas separadas",
+                "ad-vo-ga-do, dig-no, ob-je-to, ét-ni-co, rit-mo"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O Brasil tem um ritmo cultural próprio formado pela mistura de povos dignos.",
+          "en": "Brazil has its own cultural rhythm formed by the blend of worthy peoples.",
+          "highlight": "Bra-sil (br), rit-mo (tm), pró-prio (pr), dig-nos (gn)"
+        }
+      ],
+      "contrastNotes": "Diferença vital: em dígrafos (ch, lh, nh, rr, ss) há duas letras para UM som. No encontro consonantal (pr, bl, tm, gn, ct) ouvem-se as DUAS consoantes claramente."
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Patrimônio Cultural, Matrizes Étnicas e Cidadania",
+    "culturalNotes": "A cultura brasileira é fruto da confluência de matrizes indígenas originárias, africanas de diversas etnias trazidas durante a diáspora, colonizadores portugueses e sucessivas levas de imigrantes (italianos, alemães, japoneses, sírio-libaneses, entre outros). Esse mosaico moldou a culinária, a música, as artes e as expressões linguísticas.",
+    "dialogue": [
+      {
+        "speaker": "Socióloga",
+        "text": "Percebe-se que a valorização do patrimônio imaterial, como o samba de roda e o frevo, fortalece o sentimento de cidadania.",
+        "translation": "It is perceived that the valorization of intangible heritage, such as samba de roda and frevo, strengthens the sense of citizenship."
+      },
+      {
+        "speaker": "Estudante",
+        "text": "Com certeza! É relevante que as escolas abordem a história das culturas afro-brasileiras e indígenas nas salas de aula.",
+        "translation": "Certainly! It is relevant that schools address the history of Afro-Brazilian and indigenous cultures in classrooms."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Patrimônio imaterial",
+        "translation": "Intangible cultural heritage",
+        "example": "O ofício das baianas de acarajé é reconhecido como patrimônio imaterial."
+      },
+      {
+        "word": "Matriz africana e indígena",
+        "translation": "African and indigenous roots / matrix",
+        "example": "A língua e a culinária brasileiras guardam profundas raízes de matriz africana."
+      },
+      {
+        "word": "Pluralidade cultural",
+        "translation": "Cultural diversity / plurality",
+        "example": "A pluralidade cultural é uma das maiores riquezas do povo brasileiro."
+      },
+      {
+        "word": "Ações afirmativas",
+        "translation": "Affirmative action / quotas",
+        "example": "A política de cotas nas universidades é uma ação afirmativa de inclusão."
+      },
+      {
+        "word": "Identidade nacional",
+        "translation": "National identity",
+        "example": "A música popular reflete a complexa identidade nacional."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "É perceptível que as políticas de inclusão geram impactos positivos.",
+        "translation": "It is noticeable that inclusion policies generate positive impacts.",
+        "situation": "Argumentação formal"
+      },
+      {
+        "phrase": "Cumpre ressaltar a importância histórica dos povos originários.",
+        "translation": "It is necessary to highlight the historical importance of indigenous peoples.",
+        "situation": "Abertura de parágrafo argumentativo"
+      },
+      {
+        "phrase": "Infere-se, portanto, a urgência de medidas governamentais.",
+        "translation": "One infers, therefore, the urgency of governmental measures.",
+        "situation": "Conclusão de ensaio"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m17-p1",
+      "type": "multiple-choice",
+      "question": "Qual das frases a seguir utiliza um operador argumentativo formal de CONSTATAÇÃO para iniciar um parágrafo dissertativo?",
+      "options": [
+        "É perceptível que a diversidade cultural enriquece o patrimônio nacional.",
+        "Eu acho muito legal a diversidade do Brasil.",
+        "E aí, gente, vamos falar de cultura hoje?",
+        "Mudando de assunto, a festa estava ótima."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'É perceptível que...' é uma fórmula dissertativa clássica de impessoalidade e constatação argumentativa recomendada em redações formais."
+    },
+    {
+      "id": "m17-p2",
+      "type": "multiple-choice",
+      "question": "Qual a diferença entre um DÍGRAFO e um ENCONTRO CONSONANTAL?",
+      "options": [
+        "No dígrafo duas letras representam um único som; no encontro consonantal cada consoante mantém seu som individual.",
+        "Dígrafo é sempre separado; encontro consonantal nunca se separa.",
+        "Dígrafos só existem em palavras estrangeiras.",
+        "Não há diferença, são sinônimos perfeitos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "No dígrafo (ex.: 'ch', 'ss', 'lh') há 2 letras para 1 fonema. No encontro consonantal (ex.: 'pr', 'bl', 'tm') ouvem-se claramente os 2 sons consonantais."
+    },
+    {
+      "id": "m17-p3",
+      "type": "fill-in-blank",
+      "question": "Complete a proposta de intervenção dissertativa: '________, torna-se imperativo que o Ministério da Educação promova projetos culturais nas escolas.'",
+      "options": [
+        "Portanto",
+        "Contudo",
+        "Mas",
+        "Embora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Portanto' é a conjunção conclusiva padrão para introduzir a proposta de intervenção no parágrafo final da dissertação."
+    },
+    {
+      "id": "m17-p4",
+      "type": "multiple-choice",
+      "question": "Assinale a alternativa que contém apenas palavras com ENCONTROS CONSONANTAIS SEPARÁVEIS (imperfeitos) na divisão silábica:",
+      "options": [
+        "ad-vo-ga-do, rit-mo, dig-no, ob-je-to",
+        "bra-sil, flo-res, pla-no, cla-ro",
+        "chu-va, ni-nho, car-ro, pás-sa-ro",
+        "quei-jo, guer-ra, á-gua, san-gue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Em 'ad-vo-ga-do' (dv), 'rit-mo' (tm), 'dig-no' (gn) e 'ob-je-to' (bj), as consoantes de sons distintos separam-se em sílabas diferentes."
+    },
+    {
+      "id": "m17-p5",
+      "type": "multiple-choice",
+      "question": "Qual é o objetivo principal de uma 'proposta de intervenção' na conclusão de uma dissertação-argumentativa?",
+      "options": [
+        "Apresentar uma solução prática e viável para o problema discutido, indicando agente, ação, meio e finalidade.",
+        "Contar uma piada engraçada para descontrair a banca.",
+        "Fazer um resumo biográfico de quem escreveu o texto.",
+        "Repetir a primeira frase do texto sem acrescentar nada novo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A proposta de intervenção deve detalhar ações concretas de melhoria social com agentes claros e finalidade pública."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": 3,
+  "number": 3,
+  "title": "Módulo 3 — Aeroporto e Acentuação",
+  "subtitle": "Vocabulário de aeroporto e regras de acentuação de oxítonas e proparoxítonas",
+  "thematicContext": "Procedimentos de Aeroporto, Alfândega e Embarque",
+  "estimatedMinutes": 50,
+  "grammarTopics": [
+    {
+      "id": "m3-g1",
+      "title": "Sílaba Tônica e Classificação das Palavras",
+      "category": "Fonética e Fonologia",
+      "summary": "A sílaba tônica é aquela pronunciada com maior intensidade na palavra. Conforme sua posição, classifica-se em oxítona, paroxítona ou proparoxítona.",
+      "rules": [
+        {
+          "title": "Classificação quanto à Posição da Sílaba Tônica",
+          "description": "Conta-se sempre do final para o início da palavra.",
+          "table": {
+            "headers": [
+              "Classificação",
+              "Posição da Sílaba Tônica",
+              "Exemplos sem acento",
+              "Exemplos com acento"
+            ],
+            "rows": [
+              [
+                "Oxítona",
+                "Última sílaba",
+                "brasil, voar, hotel, rapaz",
+                "café, sofá, avô, você, amapá"
+              ],
+              [
+                "Paroxítona",
+                "Penúltima sílaba (maioria em PT)",
+                "mala, passagem, bilhete, viagem",
+                "fácil, táxi, tórax, açúcar"
+              ],
+              [
+                "Proparoxítona",
+                "Antepenúltima sílaba",
+                "(Não há proparoxítonas sem acento)",
+                "número, aeroporto não, tráfego, alfândega"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O ho-tel fica perto da es-ta-ção.",
+          "en": "The hotel is near the station.",
+          "highlight": "ho-tel (oxítona) / es-ta-ção (oxítona)"
+        },
+        {
+          "pt": "A al-fân-de-ga in-spe-ci-o-nou a ba-ga-gem.",
+          "en": "Customs inspected the luggage.",
+          "highlight": "al-fân-de-ga (proparoxítona)"
+        }
+      ]
+    },
+    {
+      "id": "m3-g2",
+      "title": "Regras de Acentuação: Oxítonas e Proparoxítonas",
+      "category": "Ortografia Oficial",
+      "summary": "Regras claras determinam quando oxítonas devem receber acento gráfico e a regra de ouro das proparoxítonas.",
+      "rules": [
+        {
+          "title": "1. Regra das Proparoxítonas (Regra Absoluta)",
+          "description": "TODAS as palavras proparoxítonas são obrigatoriamente acentuadas na língua portuguesa.",
+          "items": [
+            "Exemplos: al-fân-de-ga, nú-me-ro, prá-ti-co, úl-ti-mo, mé-di-co, lâm-pa-da, ô-ni-bus, gra-má-ti-ca"
+          ]
+        },
+        {
+          "title": "2. Regra das Oxítonas",
+          "description": "Acentuam-se as palavras oxítonas terminadas em:",
+          "table": {
+            "headers": [
+              "Terminação",
+              "Exemplos com Acento Agudo (Aberto)",
+              "Exemplos com Acento Circunflexo (Fechado)"
+            ],
+            "rows": [
+              [
+                "-a, -as",
+                "Pará, maracujá, sofás",
+                "crachá"
+              ],
+              [
+                "-e, -es",
+                "café, você (fechado), jacarés",
+                "você, ipê, filé"
+              ],
+              [
+                "-o, -os",
+                "cipó, dominó, avó",
+                "avô, metrô, compô-los"
+              ],
+              [
+                "-em, -ens",
+                "também, alguém, parabéns, armazéns",
+                "(apenas agudo)"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O passageiro pegou o crachá e foi direto para o portão de embarque.",
+          "en": "The passenger took his badge and went straight to the boarding gate.",
+          "highlight": "crachá (oxítona em -a)"
+        },
+        {
+          "pt": "O número do voo para Belém é JJ-3420.",
+          "en": "The flight number to Belém is JJ-3420.",
+          "highlight": "número (proparoxítona) / Belém (oxítona em -em)"
+        },
+        {
+          "pt": "Parabéns pela viagem tranquila no novo avião!",
+          "en": "Congratulations on the smooth trip on the new airplane!",
+          "highlight": "Parabéns (oxítona em -ens)"
+        }
+      ],
+      "contrastNotes": "Oxítonas terminadas em -i, -u, -r, -l, -z NÃO recebem acento gráfico, a menos que se enquadrem na regra dos hiatos: 'partir', 'urubu', 'saci', 'hotel', 'rapaz' (sem acento)."
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Procedimentos de Aeroporto, Raio-X e Alfândega",
+    "culturalNotes": "Nos aeroportos brasileiros, o processo de embarque nacional exige apenas documento oficial com foto (RG, CNH ou Passaporte). Voos internacionais exigem passaporte válido e, se aplicável, visto consular.",
+    "dialogue": [
+      {
+        "speaker": "Agente de Aeroporto",
+        "text": "Passageiros do voo 1450 com destino a Salvador, embarque imediato pelo portão 12.",
+        "translation": "Passengers of flight 1450 bound for Salvador, immediate boarding through gate 12."
+      },
+      {
+        "speaker": "Passageiro",
+        "text": "Com licença, onde fica a esteira para retirada de bagagem?",
+        "translation": "Excuse me, where is the baggage claim carousel?"
+      },
+      {
+        "speaker": "Agente",
+        "text": "Fica logo após o controle da Polícia Federal, à sua direita.",
+        "translation": "It is right after Federal Police control, to your right."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Cartão de embarque",
+        "translation": "Boarding pass",
+        "example": "Apresente seu cartão de embarque na entrada do portão."
+      },
+      {
+        "word": "Portão de embarque",
+        "translation": "Boarding gate",
+        "example": "O portão de embarque mudou para o número 7."
+      },
+      {
+        "word": "Esteira de bagagem",
+        "translation": "Baggage carousel",
+        "example": "Minha mala demorou para aparecer na esteira."
+      },
+      {
+        "word": "Alfândega",
+        "translation": "Customs",
+        "example": "Tive que declarar os eletrônicos na alfândega."
+      },
+      {
+        "word": "Detector de metais / Raio-X",
+        "translation": "Metal detector / X-ray",
+        "example": "Coloque líquidos e notebook na bandeja do raio-X."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Qual é o portão de embarque para...?",
+        "translation": "What is the boarding gate for...?",
+        "situation": "Localizar o portão"
+      },
+      {
+        "phrase": "Minha bagagem foi extraviada.",
+        "translation": "My luggage was lost/misplaced.",
+        "situation": "Reclamar bagagem"
+      },
+      {
+        "phrase": "Tenho algo a declarar à Receita Federal?",
+        "translation": "Do I have anything to declare to Customs/Tax Revenue?",
+        "situation": "Na alfândega"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m3-p1",
+      "type": "multiple-choice",
+      "question": "Qual das seguintes palavras é PROPAROXÍTONA e, portanto, obrigatoriamente acentuada?",
+      "options": [
+        "Alfândega",
+        "Bagagem",
+        "Aviação",
+        "Terminal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al-fân-de-ga tem a antepenúltima sílaba tônica ('fân'). Pela regra geral, todas as proparoxítonas são acentuadas."
+    },
+    {
+      "id": "m3-p2",
+      "type": "multiple-choice",
+      "question": "Assinale o grupo em que TODAS as palavras são oxítonas acentuadas pelas regras terminadas em -a(s), -e(s), -o(s) ou -em(ens):",
+      "options": [
+        "sofá, você, metrô, armazém",
+        "lápis, táxi, açúcar, vírus",
+        "árvore, lâmpada, pássaro, número",
+        "papel, cantar, hotel, feliz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'sofá' (em -a), 'você' (em -e), 'metrô' (em -o) e 'armazém' (em -em) são todas oxítonas acentuadas conforme a regra oficial."
+    },
+    {
+      "id": "m3-p3",
+      "type": "fill-in-blank",
+      "question": "A palavra 'parabéns' recebe acento gráfico porque é uma ________ terminada em '-ens'.",
+      "options": [
+        "oxítona",
+        "paroxítona",
+        "proparoxítona",
+        "monossílaba"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pa-ra-béns tem a última sílaba tônica ('béns'), sendo uma oxítona terminada em '-ens'."
+    },
+    {
+      "id": "m3-p4",
+      "type": "multiple-choice",
+      "question": "Por que as palavras 'hotel', 'urubu' e 'saci' NÃO recebem acento gráfico?",
+      "options": [
+        "Porque são oxítonas terminadas em -l, -u e -i, que não levam acento pela regra geral.",
+        "Porque são paroxítonas.",
+        "Porque são proparoxítonas irregulares.",
+        "Porque perderam o acento no acordo ortográfico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oxítonas terminadas em consoantes como -l, -r, -z ou vogais -i e -u não recebem acento na norma padrão (exceção para hiatos como baú, açaí)."
+    },
+    {
+      "id": "m3-p5",
+      "type": "multiple-choice",
+      "question": "No aeroporto, onde o passageiro deve retirar sua bagagem despachada após o voo?",
+      "options": [
+        "Na esteira de bagagens",
+        "No detector de metais",
+        "Na sala de embarque",
+        "No balcão de check-in"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A retirada de bagagem despachada ocorre na esteira ('esteira de bagagens') na área de desembarque."
+    }
+  ]
+}

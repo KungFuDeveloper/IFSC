@@ -1,0 +1,310 @@
+{
+  "id": 16,
+  "number": 16,
+  "title": "Módulo 16 — Roteiros, Passado Irregular e Gerúndio",
+  "subtitle": "Verbos irregulares no passado, presente contínuo (estar + gerúndio), descrição de destinos e apóstrofo",
+  "thematicContext": "Ecoturismo Brasileiro, Roteiros de Viagem e Relato de Aventuras",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m16-g1",
+      "title": "Verbos Irregulares Chave no Pretérito Perfeito",
+      "category": "Morfologia Verbal",
+      "summary": "Domínio dos verbos irregulares fundamentais: ir/ser (fui), ter (tive), estar (estive), fazer (fiz), trazer (trouxe), ver (vi), vir (vim), saber (soube), poder (pude), pôr (pus).",
+      "rules": [
+        {
+          "title": "Guia de Irregularidades do Pretérito Perfeito",
+          "description": "Radicais modificados no passado concluído.",
+          "table": {
+            "headers": [
+              "Verbo",
+              "Eu",
+              "Ele / Ela / Você",
+              "Nós",
+              "Eles / Elas / Vocês"
+            ],
+            "rows": [
+              [
+                "Ir / Ser",
+                "fui",
+                "foi",
+                "fomos",
+                "foram"
+              ],
+              [
+                "Ter",
+                "tive",
+                "teve",
+                "tivemos",
+                "tiveram"
+              ],
+              [
+                "Estar",
+                "estive",
+                "esteve",
+                "estivemos",
+                "estiveram"
+              ],
+              [
+                "Fazer",
+                "fiz",
+                "fez",
+                "fizemos",
+                "fizeram"
+              ],
+              [
+                "Trazer",
+                "trouxe",
+                "trouxe",
+                "trouxemos",
+                "trouxeram"
+              ],
+              [
+                "Vir",
+                "vim",
+                "veio",
+                "viemos",
+                "vieram"
+              ],
+              [
+                "Ver",
+                "vi",
+                "viu",
+                "vimos",
+                "viram"
+              ],
+              [
+                "Pôr",
+                "pus",
+                "pôs",
+                "pusemos",
+                "puseram"
+              ],
+              [
+                "Saber",
+                "soube",
+                "soube",
+                "soubemos",
+                "souberam"
+              ],
+              [
+                "Poder",
+                "pude",
+                "pôde (com acento diferencial)",
+                "pudemos",
+                "puderam"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "No ano passado estive na Chapada Diamantina e fiz trilhas inesquecíveis.",
+          "en": "Last year I was in Chapada Diamantina and did unforgettable hiking trails.",
+          "highlight": "estive / fiz"
+        },
+        {
+          "pt": "Nós trouxemos lembrancinhas de Salvador e vimos o pôr do sol no Farol da Barra.",
+          "en": "We brought souvenirs from Salvador and saw the sunset at Barra Lighthouse.",
+          "highlight": "trouxemos / vimos"
+        }
+      ],
+      "contrastNotes": "Cuidado com 'vir' (eu vim, ele veio) e 'ver' (eu vi, ele viu). Outro ponto: 'pôde' (passado com circunflexo) vs. 'pode' (presente com som aberto)."
+    },
+    {
+      "id": "m16-g2",
+      "title": "Presente Contínuo: A Estrutura 'Estar + Gerúndio'",
+      "category": "Morfologia e Aspecto Verbal",
+      "summary": "No Brasil, ações em andamento são quase exclusivamente expressas por 'estar + gerúndio' (-ando, -endo, -indo), diferentemente de Portugal ('a + infinitivo').",
+      "rules": [
+        {
+          "title": "Formação do Gerúndio Brasileiro",
+          "description": "Terminações regulares do gerúndio.",
+          "table": {
+            "headers": [
+              "Conjugação",
+              "Terminação do Gerúndio",
+              "Exemplo em Contexto"
+            ],
+            "rows": [
+              [
+                "1ª (-AR: viajar)",
+                "-ANDO",
+                "Estou viajando pelo litoral de Alagoas."
+              ],
+              [
+                "2ª (-ER: viver)",
+                "-ENDO",
+                "Estamos vivendo uma experiência transformadora."
+              ],
+              [
+                "3ª (-IR: curtir)",
+                "-INDO",
+                "Eles estão curtindo cada momento do passeio."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Neste momento, estou apreciando as cataratas em Foz do Iguaçu.",
+          "en": "Right now, I am appreciating the waterfalls in Foz do Iguaçu.",
+          "highlight": "estou apreciando"
+        }
+      ]
+    },
+    {
+      "id": "m16-g3",
+      "title": "O Uso do Apóstrofo (') na Língua Portuguesa",
+      "category": "Ortografia e Fonética",
+      "summary": "O apóstrofo marca a elisão (supressão) de uma vogal em palavras compostas ou poesia.",
+      "rules": [
+        {
+          "title": "Casos Consagrados do Apóstrofo",
+          "description": "Quando empregar o apóstrofo na língua padrão.",
+          "items": [
+            "Combinações com 'de': d'água (olho-d'água, gota-d'água, pau-d'alho)",
+            "Nomes próprios e expressões históricas: Santa Bárbara d'Oeste, Vozes d'África",
+            "Não se usa apóstrofo em contrações comuns que viraram palavras únicas: 'daqui' (não d'aqui), 'deste' (não d'este), 'naquela' (não n'aquela)."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Fizemos uma parada para beber água em uma nascente de olho-d'água límpido.",
+          "en": "We made a stop to drink water at a clear freshwater spring.",
+          "highlight": "olho-d'água"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Ecoturismo, Trilhas e Roteiros de Aventura no Brasil",
+    "culturalNotes": "O Brasil abriga destinos de ecoturismo de fama mundial como Bonito (MS - rios de águas cristalinas para flutuação), Lençóis Maranhenses (MA - dunas e lagoas de água doce), Fernando de Noronha (PE - santuário marinho) e Chapada dos Veadeiros (GO - cachoeiras e cânions).",
+    "dialogue": [
+      {
+        "speaker": "Guia de Ecoturismo",
+        "text": "Bem-vindos! O nosso roteiro de hoje inclui uma caminhada de quatro quilômetros até a cachoeira principal, com parada para banho.",
+        "translation": "Welcome! Our itinerary today includes a four-kilometer hike to the main waterfall, with a stop for swimming."
+      },
+      {
+        "speaker": "Turista",
+        "text": "Incrível! Ontem eu fiz a flutuação no rio e pude ver dezenas de cardumes coloridos. Que experiência!",
+        "translation": "Incredible! Yesterday I did the river snorkeling and was able to see dozens of colorful schools of fish. What an experience!"
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Roteiro turístico",
+        "translation": "Tour itinerary / travel route",
+        "example": "Montamos um roteiro completo de cinco dias pelas cidades históricas."
+      },
+      {
+        "word": "Trilha ecológica",
+        "translation": "Ecological hiking trail",
+        "example": "A trilha exige calçado fechado e protetor solar."
+      },
+      {
+        "word": "Cachoeira / Cascata",
+        "translation": "Waterfall",
+        "example": "A queda d'água da cachoeira tem mais de 50 metros de altura."
+      },
+      {
+        "word": "Flutuação",
+        "translation": "Snorkeling / river floating",
+        "example": "A flutuação no Rio da Prata é famosa pela visibilidade cristalina."
+      },
+      {
+        "word": "Preservação ambiental",
+        "translation": "Environmental conservation",
+        "example": "O parque cobra taxa de preservação para manter a infraestrutura."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Estamos fazendo um roteiro de ecoturismo pelo interior.",
+        "translation": "We are doing an ecotourism itinerary through the interior.",
+        "situation": "Descrever viagem em andamento"
+      },
+      {
+        "phrase": "Ontem pude contemplar uma vista panorâmica deslumbrante.",
+        "translation": "Yesterday I was able to contemplate a breathtaking panoramic view.",
+        "situation": "Relato com verbo irregular"
+      },
+      {
+        "phrase": "Essa foi a gota-d'água para decidirmos viajar!",
+        "translation": "That was the last straw (idiom) that made us decide to travel!",
+        "situation": "Expressão idiomática com apóstrofo"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m16-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a opção com a conjugação correta dos verbos irregulares no Pretérito Perfeito para 'Eu': '(trazer) o mapa, (fazer) a reserva e (pôr) a mochila no carro.",
+      "options": [
+        "Trouxe o mapa, fiz a reserva e pus a mochila no carro.",
+        "Trazi o mapa, fazi a reserva e ponhi a mochila no carro.",
+        "Trouxera o mapa, fizera a reserva e posera a mochila.",
+        "Trago o mapa, faço a reserva e ponho a mochila."
+      ],
+      "correctAnswer": 0,
+      "explanation": "1ª pessoa do singular do Pretérito Perfeito: Eu trouxe (trazer), Eu fiz (fazer), Eu pus (pôr)."
+    },
+    {
+      "id": "m16-p2",
+      "type": "multiple-choice",
+      "question": "Como o português brasileiro expressa uma ação que está ocorrendo no momento da fala?",
+      "options": [
+        "Com o verbo 'estar' + Gerúndio (ex.: 'Estou curtindo a viagem').",
+        "Com o verbo 'estar' + a + Infinitivo (ex.: 'Estou a curtir').",
+        "Com o particípio isolado.",
+        "Com o pretérito mais-que-perfeito."
+      ],
+      "correctAnswer": 0,
+      "explanation": "No Brasil, a forma padrão do presente contínuo é 'estar + gerúndio' (estou viajando, estamos descansando)."
+    },
+    {
+      "id": "m16-p3",
+      "type": "fill-in-blank",
+      "question": "Complete com a forma do pretérito de 'vir': 'Ontem meus amigos ________ de Belo Horizonte para nos visitar.'",
+      "options": [
+        "vieram",
+        "viram",
+        "viam",
+        "vêm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A 3ª pessoa do plural do verbo 'vir' no pretérito perfeito é 'vieram'. ('Viram' é do verbo ver)."
+    },
+    {
+      "id": "m16-p4",
+      "type": "multiple-choice",
+      "question": "Em qual dos vocábulos a seguir o apóstrofo (') foi empregado CORRETAMENTE para marcar a elisão vocálica consagrada?",
+      "options": [
+        "Olho-d'água",
+        "D'aqui",
+        "N'aquela",
+        "C'asa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Expressões consagradas como 'olho-d'água', 'pau-d'alho' e 'gota-d'água' mantêm o apóstrofo na língua padrão."
+    },
+    {
+      "id": "m16-p5",
+      "type": "multiple-choice",
+      "question": "Qual o valor do acento diferencial na forma verbal 'pôde' ('Ele não pôde vir ontem')?",
+      "options": [
+        "Diferenciar o pretérito perfeito com som fechado ('pôde') do presente com som aberto ('pode').",
+        "Indicar que a palavra é proparoxítona.",
+        "Indicar plural.",
+        "Não tem função gramatical."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Pôde' (com circunflexo, vogal fechada) marca o passado / pretérito perfeito; 'pode' (sem acento, vogal aberta) marca o presente."
+    }
+  ]
+}

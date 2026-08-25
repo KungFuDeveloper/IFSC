@@ -1,0 +1,257 @@
+{
+  "id": 10,
+  "number": 10,
+  "title": "Módulo 10 — Resumo Acadêmico e Referenciação",
+  "subtitle": "Estrutura do resumo acadêmico (abstract), impessoalidade do discurso e elementos de referenciação textual",
+  "thematicContext": "Escrita Científica, Publicações Acadêmicas e Artigos",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m10-g1",
+      "title": "Estrutura do Resumo Acadêmico (Gênero Abstract)",
+      "category": "Gêneros Textuais Acadêmicos",
+      "summary": "O resumo acadêmico sintetiza os pontos nucleares de uma pesquisa: contextualização/objetivo, metodologia, resultados e conclusão.",
+      "rules": [
+        {
+          "title": "Componentes Canônicos de um Resumo",
+          "description": "Normas da ABNT para redação de resumos em parágrafo único.",
+          "table": {
+            "headers": [
+              "Seção do Resumo",
+              "Função Comunicativa",
+              "Frases Típicas"
+            ],
+            "rows": [
+              [
+                "Objetivo",
+                "Declara o propósito do estudo",
+                "O presente artigo tem como objetivo analisar... / Este trabalho investiga..."
+              ],
+              [
+                "Metodologia",
+                "Descreve o método e corpus",
+                "Trata-se de uma pesquisa qualitativa documental... / Adotou-se o método..."
+              ],
+              [
+                "Resultados",
+                "Apresenta os achados principais",
+                "Os resultados apontam que... / Constatou-se que..."
+              ],
+              [
+                "Conclusão / Contribuição",
+                "Fecha com as implicações",
+                "Conclui-se que o modelo proposto contribui para..."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Este estudo investiga o impacto do bilinguismo na aquisição de segunda língua. Para tanto, aplicou-se um questionário a cinquenta alunos.",
+          "en": "This study investigates the impact of bilingualism on second language acquisition. To that end, a questionnaire was administered to fifty students.",
+          "highlight": "Este estudo investiga / Para tanto, aplicou-se"
+        }
+      ]
+    },
+    {
+      "id": "m10-g2",
+      "title": "Impessoalidade x Pessoalidade na Escrita Científica",
+      "category": "Estilística e Morfossintaxe",
+      "summary": "Mecanismos sintáticos para conferir tom objetivo e neutro ao texto acadêmico.",
+      "rules": [
+        {
+          "title": "Recursos de Impessoalização",
+          "description": "Como evitar a primeira pessoa do singular ('eu fiz') em textos científicos.",
+          "table": {
+            "headers": [
+              "Recurso Sintático",
+              "Como Construir",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Voz Passiva Sintética (com SE)",
+                "Verbo transitivo direto + pronome se apassivador",
+                "Analisaram-se os dados coletados. / Observou-se a variação."
+              ],
+              [
+                "Voz Passiva Analítica",
+                "Verbo ser + particípio passado",
+                "Os questionários foram aplicados em três escolas."
+              ],
+              [
+                "Sujeito Inanimado / Agente Instrumental",
+                "O próprio texto ou método assume a ação",
+                "A pesquisa demonstra que... / A tabela 2 ilustra..."
+              ],
+              [
+                "Plural de Modéstia (1ª pessoa plural)",
+                "Verbo no nós institucional",
+                "Concluímos que mais estudos são necessários."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Verificou-se que a maioria dos participantes atingiu o nível intermediário.",
+          "en": "It was verified that the majority of participants reached the intermediate level.",
+          "highlight": "Verificou-se"
+        }
+      ]
+    },
+    {
+      "id": "m10-g3",
+      "title": "Elementos de Referenciação Textual e Anáfora",
+      "category": "Coesão Referencial",
+      "summary": "Pronomes demonstrativos (este, esse, aquele), sinônimos e hiperônimos que evitam a repetição e constroem a cadeia coesiva.",
+      "rules": [
+        {
+          "title": "Uso dos Demonstrativos na Referenciação",
+          "description": "Diferença entre o que já foi dito (anáfora) e o que será anunciado (catáfora).",
+          "items": [
+            "Esse / essa / isso (Anáfora): retoma algo já citado no texto ('O aquecimento global afeta a agricultura. Esse fenômeno gera crises...')",
+            "Este / esta / isto (Catáfora / Termo presente): introduz algo a seguir ('O objetivo principal é este: reduzir a emissão de gases')",
+            "Este ... aquele: quando há dois termos citados, 'este' refere-se ao mais próximo (último) e 'aquele' ao mais distante (primeiro)."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "A gramática e a literatura são fundamentais: esta enriquece a sensibilidade, aquela estrutura o raciocínio linguístico.",
+          "en": "Grammar and literature are fundamental: the latter enriches sensitivity, the former structures linguistic reasoning.",
+          "highlight": "esta (literatura) / aquela (gramática)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Redação de Artigos Científicos, Dissertações e Resumos",
+    "culturalNotes": "No meio acadêmico brasileiro, a ABNT (Associação Brasileira de Normas Técnicas) estabelece os padrões para citações diretas, indiretas, referências bibliográficas e estrutura de resumos.",
+    "dialogue": [
+      {
+        "speaker": "Orientadora",
+        "text": "O seu resumo está bem estruturado, mas recomendo impessoalizar as frases substituindo 'nós fizemos entrevistas' por 'foram realizadas entrevistas'.",
+        "translation": "Your abstract is well-structured, but I recommend depersonalizing the sentences by replacing 'we did interviews' with 'interviews were conducted'."
+      },
+      {
+        "speaker": "Mestrando",
+        "text": "Entendido, professora! Vou reescrever utilizando a partícula apassivadora 'se'.",
+        "translation": "Understood, professor! I will rewrite it using the passive particle 'se'."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Palavras-chave",
+        "translation": "Keywords",
+        "example": "O artigo deve incluir de três a cinco palavras-chave separadas por ponto."
+      },
+      {
+        "word": "Corpus de pesquisa",
+        "translation": "Research corpus / dataset",
+        "example": "O corpus é constituído por 100 notícias de jornais digitais."
+      },
+      {
+        "word": "Estado da arte",
+        "translation": "State of the art / literature review",
+        "example": "O capítulo 2 faz um levantamento do estado da arte sobre o tema."
+      },
+      {
+        "word": "Citação direta / indireta",
+        "translation": "Direct quote / Paraphrase",
+        "example": "Citações diretas longas exigem recuo de 4 cm e fonte reduzida."
+      },
+      {
+        "word": "Relevância social",
+        "translation": "Social relevance",
+        "example": "O projeto destaca-se pela sua alta relevância social."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Os dados coletados evidenciam uma correlação positiva entre...",
+        "translation": "The collected data demonstrate a positive correlation between...",
+        "situation": "Apresentação de resultados científicos"
+      },
+      {
+        "phrase": "Em suma, os achados sugerem que...",
+        "translation": "In summary, the findings suggest that...",
+        "situation": "Síntese de conclusões"
+      },
+      {
+        "phrase": "Para futuras investigações, sugere-se que...",
+        "translation": "For future research, it is suggested that...",
+        "situation": "Trabalhos futuros"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m10-p1",
+      "type": "multiple-choice",
+      "question": "Transforme a frase 'Nós analisamos cinquenta amostras no laboratório' para a voz passiva sintética impessoal adequada a um artigo científico:",
+      "options": [
+        "Analisaram-se cinquenta amostras no laboratório.",
+        "Analisou-se cinquenta amostras no laboratório.",
+        "Nós tínhamos analisado cinquenta amostras.",
+        "Cinquenta amostras analisamos nós."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Na voz passiva sintética com sujeito paciente no plural ('cinquenta amostras'), o verbo concorda no plural: 'Analisaram-se cinquenta amostras'."
+    },
+    {
+      "id": "m10-p2",
+      "type": "multiple-choice",
+      "question": "Em relação ao uso anafórico no texto acadêmico, qual pronome deve ser usado para retomar um conceito ou termo que ACABOU de ser mencionado no parágrafo?",
+      "options": [
+        "Esse / essa / isso",
+        "Aquele / aquela / aquilo",
+        "O mesmo (como pronome pessoal)",
+        "Cujo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Esse / essa / isso' são os pronomes demonstrativos anafóricos por excelência na norma padrão para retomar termos precedentes."
+    },
+    {
+      "id": "m10-p3",
+      "type": "fill-in-blank",
+      "question": "Complete o trecho do resumo científico: 'A presente pesquisa ________ como objetivo principal avaliar o índice de evasão escolar.'",
+      "options": [
+        "tem",
+        "temos",
+        "tiveram",
+        "tendo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Com o sujeito inanimado na 3ª pessoa do singular ('A presente pesquisa'), usa-se 'tem'."
+    },
+    {
+      "id": "m10-p4",
+      "type": "multiple-choice",
+      "question": "Qual das alternativas contém a sequência padrão dos elementos de um resumo acadêmico (abstract)?",
+      "options": [
+        "Contexto/Objetivo → Metodologia → Resultados → Conclusão",
+        "Bibliografia → Agradecimentos → Anexos → Resultados",
+        "Opinião pessoal → Piadas → Metodologia → Conclusão",
+        "Resultados → Bibliografia → Metodologia → Título"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A estrutura canônica exigida pelas normas acadêmicas é: Objetivo/Contexto, Metodologia, Resultados e Conclusão."
+    },
+    {
+      "id": "m10-p5",
+      "type": "multiple-choice",
+      "question": "Por que se recomenda evitar a 1ª pessoa do singular ('eu acho', 'eu pesquisei') em artigos científicos?",
+      "options": [
+        "Para garantir a impessoalidade, objetividade e foco nos dados e na metodologia da pesquisa.",
+        "Porque é gramaticalmente proibido usar pronomes na língua portuguesa.",
+        "Porque os computadores não leem a letra 'e'.",
+        "Porque a ABNT proíbe qualquer verbo no tempo presente."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A escrita científica preza pela neutralidade e rigor empírico, priorizando a evidência sobre impressões subjetivas individuais."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": 7,
+  "number": 7,
+  "title": "Módulo 7 — Culinária, Receitas e Dígrafos",
+  "subtitle": "Gênero receita culinária, verbos de preparo, linguagem conotativa e estudo dos dígrafos",
+  "thematicContext": "Festas Populares, Tradições Gastronômicas Brasileiras e Culinária Regional",
+  "estimatedMinutes": 50,
+  "grammarTopics": [
+    {
+      "id": "m7-g1",
+      "title": "Gênero Textual Receita e Verbos de Preparo",
+      "category": "Tipologia Textual e Modos Verbais",
+      "summary": "Receitas culinárias utilizam o modo Imperativo ou o Infinitivo para guiar o leitor passo a passo no preparo de pratos.",
+      "rules": [
+        {
+          "title": "Estrutura Padrão da Receita e Alternância Verbal",
+          "description": "A receita é dividida em 'Ingredientes' (quantidades e medidas) e 'Modo de Preparo' (instruções cronológicas).",
+          "table": {
+            "headers": [
+              "Forma Verbal",
+              "Uso no Modo de Preparo",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Imperativo (Você / Vocês)",
+                "Comum em receitas publicadas no Brasil",
+                "Bata os ovos, acrescente a farinha e leve ao forno."
+              ],
+              [
+                "Infinitivo Impessoal",
+                "Comum em embalagens e livros técnicos",
+                "Bater os ovos, acrescentar a farinha e assar em forno médio."
+              ],
+              [
+                "Presente do Indicativo",
+                "Tom explicativo ou tutorial narrado",
+                "Você mistura tudo até formar uma massa homogênea."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Pique a cebola bem fininha e refogue no azeite até dourar.",
+          "en": "Chop the onion very fine and sauté in olive oil until golden brown.",
+          "highlight": "Pique / refogue"
+        },
+        {
+          "pt": "Deixe a massa descansar por vinte minutos antes de abrir.",
+          "en": "Let the dough rest for twenty minutes before rolling it out.",
+          "highlight": "Deixe"
+        }
+      ]
+    },
+    {
+      "id": "m7-g2",
+      "title": "Linguagem Conotativa (Figurada) vs. Denotativa na Gastronomia",
+      "category": "Semântica",
+      "summary": "Expressões idiomáticas de base gastronômica usadas no dia a dia no Brasil.",
+      "rules": [
+        {
+          "title": "Expressões Conotativas Brasileiras",
+          "description": "Metáforas culinárias populares no discurso cotidiano.",
+          "table": {
+            "headers": [
+              "Expressão Conotativa",
+              "Significado Figurado",
+              "Exemplo de Uso"
+            ],
+            "rows": [
+              [
+                "Dar com os burros n'água",
+                "Fracassar em um plano",
+                "Ele tentou convencer o chefe mas deu com os burros n'água."
+              ],
+              [
+                "Pisar em ovos",
+                "Agir com extrema cautela",
+                "O clima estava tenso e todos pisavam em ovos na reunião."
+              ],
+              [
+                "Encher linguiça",
+                "Falar ou escrever muito sem conteúdo",
+                "O texto do trabalho está apenas enchendo linguiça."
+              ],
+              [
+                "Pão-duro",
+                "Pessoa excessivamente avarenta / sovina",
+                "Ele não quis pagar o refrigerante porque é pão-duro."
+              ],
+              [
+                "Torta de climão",
+                "Situação social embaraçosa ou constrangedora",
+                "Ficou uma torta de climão quando revelaram o segredo."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Não precisa pisar em ovos comigo, pode falar a verdade com franqueza.",
+          "en": "You don't need to walk on eggshells with me, you can speak the truth frankly.",
+          "highlight": "pisar em ovos"
+        }
+      ]
+    },
+    {
+      "id": "m7-g3",
+      "title": "Estudo dos Dígrafos na Língua Portuguesa",
+      "category": "Fonética e Ortografia",
+      "summary": "Dígrafo é o encontro de duas letras que representam um ÚNICO fonema (som).",
+      "rules": [
+        {
+          "title": "Dígrafos Consonantais e Vocálicos",
+          "description": "Diferença entre dígrafos separáveis e inseparáveis na divisão silábica.",
+          "table": {
+            "headers": [
+              "Tipo de Dígrafo",
+              "Letras",
+              "Comportamento na Separação Silábica",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Inseparáveis",
+                "ch, lh, nh, gu*, qu*",
+                "Ficam na mesma sílaba",
+                "chu-va, mi-lho, ni-nho, gui-a, quei-jo"
+              ],
+              [
+                "Separáveis",
+                "rr, ss, sc, sç, xc",
+                "Ficam em sílabas diferentes",
+                "car-ro, pás-sa-ro, des-cer, nas-ço, ex-ce-to"
+              ],
+              [
+                "Vocálicos",
+                "am/an, em/en, im/in, om/on, um/un",
+                "Vogal nasalizada",
+                "tam-pa, can-to, lem-po, cin-to, pon-te, mun-do"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O cozinheiro assou o frango com alho e cheiro-verde.",
+          "en": "The cook roasted the chicken with garlic and fresh herbs.",
+          "highlight": "co-zi-nhei-ro (nh), as-sou (ss), fran-go (an), a-lho (lh), chei-ro (ch)"
+        }
+      ],
+      "contrastNotes": "*gu e qu só são dígrafos quando a letra 'u' NÃO é pronunciada (ex.: guerra, queijo = dígrafos; água, tranquilo = não são dígrafos, pois o 'u' soa)."
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Festas Juninas, Feijoada e Culinária Brasileira",
+    "culturalNotes": "As Festas Juninas no Brasil celebram São João, Santo Antônio e São Pedro com comidas típicas de milho (pamonha, canjica, curau, bolo de milho), quentão e fogueira. A feijoada brasileira, acompanhada de arroz, couve refogada, farofa e laranjas, é prato nacional emblemático.",
+    "dialogue": [
+      {
+        "speaker": "Dona Maria",
+        "text": "Para a feijoada ficar saborosa, deixe o feijão preto de molho na véspera e cozinhe as carnes em fogo brando.",
+        "translation": "For the feijoada to be tasty, soak the black beans the night before and cook the meats over low heat."
+      },
+      {
+        "speaker": "Turista",
+        "text": "Hum, o cheiro está irresistível! Qual é a receita dessa farofa crocante?",
+        "translation": "Mmm, the aroma is irresistible! What is the recipe for this crunchy farofa?"
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Refogar",
+        "translation": "Sauté / fry lightly with seasonings",
+        "example": "Refogue o alho e a cebola no azeite antes de colocar o arroz."
+      },
+      {
+        "word": "Untar a forma",
+        "translation": "Grease the baking pan",
+        "example": "Unte a forma com manteiga e polvilhe com farinha."
+      },
+      {
+        "word": "Pitada de sal",
+        "translation": "Pinch of salt",
+        "example": "Adicione apenas uma pitadinha de sal à massa do bolo."
+      },
+      {
+        "word": "Fogo brando / Fogo médio",
+        "translation": "Low heat / Medium heat",
+        "example": "Cozinhe o doce em fogo brando mexendo sem parar."
+      },
+      {
+        "word": "Ponto de fio / Ponto de calda",
+        "translation": "Syrup stage / Thread stage",
+        "example": "Desligue o fogo quando a calda atingir o ponto de fio."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Mexa até desgrudar do fundo da panela.",
+        "translation": "Stir until it unsticks from the bottom of the pan (brigadeiro test).",
+        "situation": "Instrução de doces típicos"
+      },
+      {
+        "phrase": "Sirva ainda quente acompanhado de arroz.",
+        "translation": "Serve while still hot with a side of rice.",
+        "situation": "Finalização de pratos"
+      },
+      {
+        "phrase": "Isso está de comer rezando!",
+        "translation": "This is heavenly / divine food!",
+        "situation": "Elogiar um prato"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m7-p1",
+      "type": "multiple-choice",
+      "question": "Na frase 'O cozinheiro preparou um prato maravilhoso', quantas ocorrências de DÍGRAFOS existem nas palavras 'cozinheiro' e 'maravilhoso'?",
+      "options": [
+        "Dois dígrafos (nh em cozinheiro e lh em maravilhoso)",
+        "Nenhum dígrafo",
+        "Quatro dígrafos",
+        "Apenas um dígrafo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'cozinheiro' tem o dígrafo inseparável 'nh' e 'maravilhoso' tem o dígrafo inseparável 'lh'."
+    },
+    {
+      "id": "m7-p2",
+      "type": "multiple-choice",
+      "question": "Assinale a opção em que a palavra destacada possui um DÍGRAFO SEPARÁVEL na divisão silábica:",
+      "options": [
+        "O carro (car-ro) chegou ao restaurante.",
+        "A chuva (chu-va) estragou a festa.",
+        "O ninho (ni-nho) do pássaro caiu.",
+        "O queijo (quei-jo) estava fresco."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'rr' e 'ss' são dígrafos separáveis cujas letras ficam em sílabas distintas (car-ro, pás-sa-ro)."
+    },
+    {
+      "id": "m7-p3",
+      "type": "fill-in-blank",
+      "question": "Complete a instrução culinária no Imperativo: '________ (Picar) o tomate em cubos e ________ (misturar) com a salsa.'",
+      "options": [
+        "Pique / misture",
+        "Pica / mistura",
+        "Piquei / misturei",
+        "Piquem / misturais"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No imperativo afirmativo (tratamento você): Pique (do verbo picar) e misture (do verbo misturar)."
+    },
+    {
+      "id": "m7-p4",
+      "type": "multiple-choice",
+      "question": "O que significa a expressão idiomática culinária 'pisar em ovos'?",
+      "options": [
+        "Agir com extremo cuidado para não ofender ou irritar alguém em uma situação delicada.",
+        "Preparar uma omelete sofisticada.",
+        "Caminhar descalço na granja.",
+        "Gastar dinheiro de maneira impulsiva."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Pisar em ovos' significa ter muita cautela e tato diante de uma situação sensível."
+    },
+    {
+      "id": "m7-p5",
+      "type": "multiple-choice",
+      "question": "Em qual das palavras abaixo as letras 'gu' NÃO formam um dígrafo (isto é, a letra 'u' é pronunciada)?",
+      "options": [
+        "Água",
+        "Guerra",
+        "Guia",
+        "Foguete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Em 'água' o som do 'u' é claramente pronunciado (ditongo 'ua'), portanto não é dígrafo. Em guerra, guia e foguete o 'u' é mudo, constituindo dígrafo."
+    }
+  ]
+}

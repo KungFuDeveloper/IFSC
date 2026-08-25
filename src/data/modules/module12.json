@@ -1,0 +1,303 @@
+{
+  "id": 12,
+  "number": 12,
+  "title": "Módulo 12 — Normas, Concordância e Sentido Figurado",
+  "subtitle": "Expressões de proibição, obrigação e permissão, concordância nominal, denotação x conotação e oralidade",
+  "thematicContext": "Regras de Convivência, Sinalização, Figuras de Linguagem e Fonética Oral",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m12-g1",
+      "title": "Expressões de Proibição, Obrigatoriedade e Permissão",
+      "category": "Morfossintaxe e Modalização",
+      "summary": "Estruturas regulatórias aplicadas a placas, avisos públicos e normas institucionais.",
+      "rules": [
+        {
+          "title": "Quadro de Modalizadores Deônticos",
+          "description": "Expressões de dever, permissão e veto.",
+          "table": {
+            "headers": [
+              "Categoria",
+              "Estruturas Frequentes",
+              "Exemplo Prático"
+            ],
+            "rows": [
+              [
+                "Proibição / Veto",
+                "É proibido + substantivo / Não é permitido / Fica vedado",
+                "É proibido fumar neste recinto. / Proibida a entrada."
+              ],
+              [
+                "Obrigação",
+                "É obrigatório / Deve-se + infinitivo / É indispensável",
+                "É obrigatório o uso de capacete de segurança."
+              ],
+              [
+                "Permissão / Liberação",
+                "É permitido / É livre o acesso / Pode-se",
+                "É permitida a circulação de animais de estimação."
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Concordância em 'É Proibido / É Permitido / É Bom / É Necessário'",
+          "description": "Regra clássica de concordância nominal.",
+          "items": [
+            "Sem artigo diante do substantivo: fica no masculino singular ('É proibido entrada de estranhos', 'Cerveja é bom')",
+            "Com artigo ou pronome modificador: concorda com o substantivo ('É proibida A entrada', 'Esta cerveja é boa', 'São necessárias AS reformas')"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "É proibido fumar na área interna do edifício.",
+          "en": "Smoking is prohibited in the indoor area of the building.",
+          "highlight": "É proibido"
+        },
+        {
+          "pt": "É proibida a permanência de veículos não autorizados na garagem.",
+          "en": "The staying of unauthorized vehicles in the garage is prohibited.",
+          "highlight": "É proibida a permanência"
+        }
+      ]
+    },
+    {
+      "id": "m12-g2",
+      "title": "Concordância Nominal Essencial",
+      "category": "Sintaxe de Concordância",
+      "summary": "Regras de concordância de adjetivos, particípios e palavras como 'mesmo', 'próprio', 'obrigado', 'meio' e 'bastante'.",
+      "rules": [
+        {
+          "title": "Casos Especiais de Concordância",
+          "description": "Ajustes de gênero e número.",
+          "table": {
+            "headers": [
+              "Palavra / Expressão",
+              "Regra",
+              "Exemplo Correto"
+            ],
+            "rows": [
+              [
+                "Obrigado / Obrigada",
+                "Concorda com o sexo do emissor",
+                "O homem diz 'Muito obrigado'; a mulher diz 'Muito obrigada'."
+              ],
+              [
+                "Mesmo(s) / Próprio(s)",
+                "Concordam com a pessoa a que se referem",
+                "Elas mesmas prepararam o relatório."
+              ],
+              [
+                "Meio (adjetivo) vs. Meio (advérbio)",
+                "Adjetivo = metade (meia xícara); Advérbio = um pouco (ela está meio cansada - invariável)",
+                "Tomou meia xícara de café porque estava meio preocupada."
+              ],
+              [
+                "Bastante (adjetivo vs advérbio)",
+                "Antes de substantivo = muitos/as (bastantes livros); Antes de adjetivo/verbo = muito (invariável)",
+                "Eles leram bastantes livros e estudaram bastante."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "A diretora mesma assinou os documentos e disse: 'Muito obrigada pelo empenho'.",
+          "en": "The director herself signed the documents and said: 'Thank you very much for your effort'.",
+          "highlight": "mesma / obrigada"
+        }
+      ]
+    },
+    {
+      "id": "m12-g3",
+      "title": "Sentido Denotativo x Conotativo e Metáfora",
+      "category": "Semântica e Estilística",
+      "summary": "Denotação é o sentido literal e objetivo do dicionário; Conotação é o sentido figurado, poético ou metafórico.",
+      "rules": [
+        {
+          "title": "Contraste Denotação vs. Conotação",
+          "description": "Identificação no discurso cotidiano e literário.",
+          "table": {
+            "headers": [
+              "Frase",
+              "Tipo de Sentido",
+              "Explicação"
+            ],
+            "rows": [
+              [
+                "O coração é um órgão que bombeia sangue.",
+                "Denotativo (Literal)",
+                "Sentido biológico real do termo coração."
+              ],
+              [
+                "Aquele médico tem um coração de ouro.",
+                "Conotativo (Metafórico)",
+                "Metáfora que significa bondade, generosidade extrema."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Ele quebrou o copo de cristal (denotativo) vs. Ele quebrou o silêncio da reunião (conotativo).",
+          "en": "He broke the glass cup (literal) vs. He broke the silence of the meeting (figurative).",
+          "highlight": "quebrou o silêncio"
+        }
+      ]
+    },
+    {
+      "id": "m12-g4",
+      "title": "Alterações de Vogais na Oralidade Brasileira",
+      "category": "Fonética e Variação Linguística",
+      "summary": "Fenômenos comuns no português falado, como a redução vocálica das pretônicas e postônicas ('menino' soa 'mininu', 'leite' soa 'leiti') e monotongação ('peixe' soa 'pexe').",
+      "rules": [
+        {
+          "title": "Fenômenos Fonéticos da Fala Brasileira",
+          "description": "Compreender para aprimorar a escuta e conversação.",
+          "items": [
+            "Alçamento vocálico: 'e' e 'o' átonos finais pronunciados como [i] e [u] (ponte → [põtʃi], carro → [karu])",
+            "Palatalização de 't' e 'd' antes de [i]: 'tia' soa [tʃia], 'dia' soa [dʒia] na maior parte do Brasil",
+            "Monotongação na fala rápida: 'ouro' → 'oro', 'caixa' → 'caxa'"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Na fala coloquial, 'leite quente' soa como [leiti kẽti] na pronúncia do Sudeste.",
+          "en": "In colloquial speech, 'leite quente' sounds like [leiti kẽti] in Southeastern Brazilian pronunciation.",
+          "highlight": "redução vocálica e palatalização"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Regulamentos, Condomínios e Placas de Trânsito",
+    "culturalNotes": "Em condomínios residenciais e repartições públicas no Brasil, regras de silêncio (geralmente após as 22h) e descarte de lixo são expressas por comunicados oficiais fixados nos elevadores e áreas comuns.",
+    "dialogue": [
+      {
+        "speaker": "Síndico",
+        "text": "Senhores moradores, lembramos que é proibido o uso da piscina após as 20 horas para manutenção.",
+        "translation": "Dear residents, we remind you that the use of the pool after 8 PM is prohibited for maintenance."
+      },
+      {
+        "speaker": "Moradora",
+        "text": "Muito obrigada pelo aviso. Vou avisar meus familiares que estão de visita.",
+        "translation": "Thank you very much for the notice. I will let my visiting relatives know."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Normas de convivência",
+        "translation": "Community living rules / guidelines",
+        "example": "As normas de convivência garantem o respeito entre vizinhos."
+      },
+      {
+        "word": "Síndico(a)",
+        "translation": "Building manager / HOA president",
+        "example": "O síndico convocou uma assembleia extraordinária."
+      },
+      {
+        "word": "Vedado / Interditado",
+        "translation": "Forbidden / Closed off",
+        "example": "Acesso interditado para reformas estruturais."
+      },
+      {
+        "word": "Infração / Multa",
+        "translation": "Violation / Fine",
+        "example": "O desrespeito às regras poderá acarretar multa condominial."
+      },
+      {
+        "word": "Alvará de funcionamento",
+        "translation": "Operating license / permit",
+        "example": "O estabelecimento comercial possui alvará regularizado."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "É expressamente proibida a entrada de pessoas não autorizadas.",
+        "translation": "Entry of unauthorized persons is strictly prohibited.",
+        "situation": "Placas e sinalização de segurança"
+      },
+      {
+        "phrase": "Fica assegurado o direito de...",
+        "translation": "The right to... is hereby guaranteed.",
+        "situation": "Artigos de regimento interno"
+      },
+      {
+        "phrase": "Ela ficou meio chateada com a situação.",
+        "translation": "She felt somewhat upset about the situation.",
+        "situation": "Expressão de estado emocional (meio invariável)"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m12-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a opção com a concordância nominal CORRETA de acordo com a norma culta:",
+      "options": [
+        "É proibida a entrada de animais no estabelecimento.",
+        "É proibido a entrada de animais no estabelecimento.",
+        "É proibidas as entradas de pessoas.",
+        "Entrada de animais é proibida (sem artigo)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Havendo o artigo feminino definido 'a' diante de 'entrada', a concordância é obrigatória no feminino: 'É proibida a entrada'."
+    },
+    {
+      "id": "m12-p2",
+      "type": "multiple-choice",
+      "question": "Uma mulher, ao agradecer um favor, deve dizer:",
+      "options": [
+        "Muito obrigada",
+        "Muito obrigado",
+        "Muito obrigados",
+        "Muito me obrigado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "O adjetivo 'obrigado/a' concorda em gênero com quem fala. Mulheres dizem 'Muito obrigada'."
+    },
+    {
+      "id": "m12-p3",
+      "type": "fill-in-blank",
+      "question": "Complete com a forma correta do advérbio 'meio': 'A secretária estava ________ preocupada com o prazo do relatório.'",
+      "options": [
+        "meio",
+        "meia",
+        "meios",
+        "meias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Quando 'meio' tem valor de advérbio (significando 'um pouco'), é invariável: 'meio preocupada'."
+    },
+    {
+      "id": "m12-p4",
+      "type": "multiple-choice",
+      "question": "Qual das frases a seguir apresenta sentido CONOTATIVO (figurado)?",
+      "options": [
+        "Aquele negociador tem nervos de aço.",
+        "A ponte foi construída com vigas de aço.",
+        "O copo de vidro quebrou no chão da cozinha.",
+        "A água ferve a cem graus Celsius ao nível do mar."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Nervos de aço' é uma metáfora (sentido conotativo) que expressa calma e resistência sob extrema pressão."
+    },
+    {
+      "id": "m12-p5",
+      "type": "multiple-choice",
+      "question": "Assinale a frase em que 'bastante' está flexionado no plural CORRETAMENTE como adjetivo (equivalendo a 'muitos/muitas'):",
+      "options": [
+        "Eles tinham bastantes motivos para comemorar.",
+        "Elas estavam bastantes cansadas da viagem.",
+        "Nós estudamos bastantes para o exame.",
+        "Eles moram bastantes longe do centro."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Quando modifica um substantivo ('motivos'), 'bastante' funciona como pronome/adjetivo indefinido e vai para o plural ('bastantes motivos' = muitos motivos)."
+    }
+  ]
+}

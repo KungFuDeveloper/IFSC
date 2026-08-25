@@ -1,0 +1,267 @@
+{
+  "id": 14,
+  "number": 14,
+  "title": "Módulo 14 — Cinema, Sinopse e Uso do Hífen",
+  "subtitle": "Gêneros cinematográficos, sinopse, gostos e preferências, adjetivos qualificadores e uso do hífen",
+  "thematicContext": "Cinema Brasileiro, Audiovisual, Crítica de Filmes e Novas Regras do Hífen",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m14-g1",
+      "title": "Gênero Sinopse e Expressão de Gostos e Preferências",
+      "category": "Tipologia Textual e Estilística",
+      "summary": "A sinopse apresenta uma síntese envolvente do enredo sem revelar o desfecho (spoiler), empregando adjetivos expressivos e verbos no presente do indicativo.",
+      "rules": [
+        {
+          "title": "Características da Sinopse de Cinema",
+          "description": "Convenções de escrita do gênero cinematográfico.",
+          "items": [
+            "Tempo verbal dominante: Presente do Indicativo (efeito de imediatismo: 'O protagonista descobre um segredo...')",
+            "Adjetivação expressiva: instigante, comovente, arrebatador, intrigante, aclamado",
+            "Expressões de avaliação crítica: 'Uma obra-prima do cinema nacional', 'Com atuações memoráveis', 'Vale muito a pena conferir'"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O filme 'Central do Brasil' conta a emocionante jornada de Dora e Josué pelo interior do Nordeste em busca de um pai desconhecido.",
+          "en": "The movie 'Central Station' tells the moving journey of Dora and Josué through the Northeastern countryside in search of an unknown father.",
+          "highlight": "conta / emocionante jornada"
+        },
+        {
+          "pt": "Sou apaixonado por documentários históricos, mas não sou muito chegado a filmes de terror.",
+          "en": "I am passionate about historical documentaries, but I'm not really into horror movies.",
+          "highlight": "apaixonado por / não sou muito chegado a"
+        }
+      ]
+    },
+    {
+      "id": "m14-g2",
+      "title": "Adjetivos: Posição, Concordância e Grau",
+      "category": "Morfossintaxe",
+      "summary": "A posição do adjetivo (antes ou depois do substantivo) pode alterar o sentido objetivo vs. afetivo no português brasileiro.",
+      "rules": [
+        {
+          "title": "Mudança de Sentido pela Posição do Adjetivo",
+          "description": "Comparativo semântico da anteposição do adjetivo.",
+          "table": {
+            "headers": [
+              "Antes do Substantivo (Subjetivo/Afetivo)",
+              "Depois do Substantivo (Literal/Objetivo)"
+            ],
+            "rows": [
+              [
+                "Um grande homem (homem notável, admirável)",
+                "Um homem grande (homem de alta estatura física)"
+              ],
+              [
+                "Um velho amigo (amigo de longa data)",
+                "Um amigo velho (amigo de idade avançada)"
+              ],
+              [
+                "Um simples filme (apenas um filme, despretensioso)",
+                "Um filme simples (filme descomplicado, de enredo fácil)"
+              ],
+              [
+                "Pobre ator (digno de compaixão / desafortunado)",
+                "Ator pobre (sem recursos financeiros)"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Fernanda Montenegro é uma grande atriz do cinema brasileiro.",
+          "en": "Fernanda Montenegro is a great/distinguished actress of Brazilian cinema.",
+          "highlight": "grande atriz (admirável)"
+        }
+      ]
+    },
+    {
+      "id": "m14-g3",
+      "title": "O Uso do Hífen no Novo Acordo Ortográfico",
+      "category": "Ortografia Oficial",
+      "summary": "Regra mnemônica do hífen: 'Os iguais se repelem (com hífen), os diferentes se atraem (sem hífen)'.",
+      "rules": [
+        {
+          "title": "Regras Fundamentais do Hífen em Prefixos",
+          "description": "Prefixos como micro-, auto-, anti-, super-, inter-, sub-, pré-, pós-.",
+          "table": {
+            "headers": [
+              "Condição",
+              "Regra do Hífen",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Letras iguais (fim do prefixo = início da palavra)",
+                "USA HÍFEN (-)",
+                "micro-ondas, anti-inflamatório, sobre-humano (com h sempre), inter-regional"
+              ],
+              [
+                "Letras diferentes",
+                "JUNTA SEM HÍFEN",
+                "autoescola, infraestrutura, antiaéreo, semicírculo"
+              ],
+              [
+                "Prefixo termina em vogal + palavra começa com R ou S",
+                "JUNTA E DOBRA 'RR' OU 'SS'",
+                "antirreflexo (anti+reflexo), minissaia (mini+saia), ultrassom (ultra+som)"
+              ],
+              [
+                "Prefixos tônicos: pré-, pós-, pró- (com acento)",
+                "USA HÍFEN",
+                "pré-estreia, pós-graduação, pró-ativo"
+              ],
+              [
+                "Com a letra 'H'",
+                "SEMPRE USA HÍFEN",
+                "super-homem, anti-higiênico, pré-história"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "A pré-estreia do filme exibiu imagens em ultrassom e efeitos antirreflexo impressionantes.",
+          "en": "The film's pre-premiere displayed ultrasound footage and impressive anti-reflective effects.",
+          "highlight": "pré-estreia / ultrassom / antirreflexo"
+        },
+        {
+          "pt": "Comprei um micro-ondas novo e matriculei-me na autoescola.",
+          "en": "I bought a new microwave and enrolled in driving school.",
+          "highlight": "micro-ondas (iguais) / autoescola (diferentes)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Cinema Brasileiro, Festivais e Audiovisual",
+    "culturalNotes": "O cinema brasileiro tem marcos históricos como o Cinema Novo de Glauber Rocha e a 'Retomada' dos anos 1990 (Central do Brasil, Cidade de Deus, O Auto da Compadecida, Bacurau), com forte presença em festivais internacionais como Cannes, Berlim e o Festival de Gramado.",
+    "dialogue": [
+      {
+        "speaker": "Crítico",
+        "text": "O que você achou da direção de fotografia desse novo longa-metragem brasileiro?",
+        "translation": "What did you think of the cinematography in this new Brazilian feature film?"
+      },
+      {
+        "speaker": "Cineasta",
+        "text": "Achei esplêndida! O roteiro é instigante e as atuações foram aclamadas pelo público na pré-estreia.",
+        "translation": "I thought it was splendid! The screenplay is gripping and the acting was acclaimed by the audience at the preview."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Longa-metragem / Curta-metragem",
+        "translation": "Feature film / Short film",
+        "example": "O festival premiou o melhor curta-metragem universitário."
+      },
+      {
+        "word": "Roteiro / Roteirista",
+        "translation": "Screenplay / Screenwriter",
+        "example": "O roteiro foi adaptado de um romance clássico da literatura."
+      },
+      {
+        "word": "Direção de fotografia",
+        "translation": "Cinematography / DP",
+        "example": "A iluminação da direção de fotografia valorizou o sertão nordestino."
+      },
+      {
+        "word": "Trilha sonora",
+        "translation": "Soundtrack",
+        "example": "A trilha sonora do filme inclui músicas de Tom Jobim e Caetano Veloso."
+      },
+      {
+        "word": "Dublado vs. Legendado",
+        "translation": "Dubbed vs. Subtitled",
+        "example": "Você prefere assistir ao filme dublado ou legendado?"
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "O filme prendeu minha atenção do início ao fim.",
+        "translation": "The movie held my attention from beginning to end.",
+        "situation": "Elogio a um filme"
+      },
+      {
+        "phrase": "Não dei nada pelo filme no começo, mas me surpreendeu positivamente!",
+        "translation": "I didn't expect much at first, but it positively surprised me!",
+        "situation": "Impressão inesperada"
+      },
+      {
+        "phrase": "A atuação da atriz principal foi impecável.",
+        "translation": "The lead actress's performance was flawless.",
+        "situation": "Crítica artística"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m14-p1",
+      "type": "multiple-choice",
+      "question": "De acordo com as regras do Novo Acordo Ortográfico sobre o hífen, qual das palavras está grafada CORRETAMENTE?",
+      "options": [
+        "Micro-ondas",
+        "Microondas",
+        "Auto-escola",
+        "Antiinflamatório"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prefixos terminados na mesma vogal que inicia a palavra seguinte exigem hífen ('os iguais se repelem'): micro-ondas, anti-inflamatório."
+    },
+    {
+      "id": "m14-p2",
+      "type": "multiple-choice",
+      "question": "Quando o prefixo termina em vogal e a segunda palavra começa com 'R' ou 'S', o que acontece?",
+      "options": [
+        "Junta-se a palavra sem hífen e dobra-se o 'r' ou 's' (ex.: antirreflexo, minissaia).",
+        "Usa-se hífen obrigatoriamente (ex.: anti-reflexo).",
+        "Elimina-se a consoante 'r' ou 's'.",
+        "Acentua-se a vogal anterior."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pela nova regra, prefixo terminado em vogal + palavra com R/S junta sem hífen e dobra a consoante: antessala, ultrassom, antirreflexo, minissaia."
+    },
+    {
+      "id": "m14-p3",
+      "type": "fill-in-blank",
+      "question": "Na frase 'Ele é um grande ator', a expressão 'grande ator' significa que ele é um ator ________.",
+      "options": [
+        "admirável e talentoso",
+        "de estatura física muito alta",
+        "pesado",
+        "antigo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A anteposição do adjetivo 'grande' antes do substantivo confere sentido valorativo e figurado (notável, talentoso)."
+    },
+    {
+      "id": "m14-p4",
+      "type": "multiple-choice",
+      "question": "Qual das opções apresenta a grafia CORRETA para prefixos tônicos acentuados (pré, pós, pró)?",
+      "options": [
+        "Pré-estreia e pós-graduação",
+        "Preestreia e posgraduacao",
+        "Préestreia e pósgraduação",
+        "Pre-estreia e pos-graduação"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prefixos com acento gráfico próprio (pré-, pós-, pró-) são sempre seguidos de hífen: pré-estreia, pós-graduação, pró-ativo."
+    },
+    {
+      "id": "m14-p5",
+      "type": "multiple-choice",
+      "question": "Em uma sinopse de cinema, qual o tempo verbal comumente utilizado para relatar a trama e dar sensação de dinamismo imediato?",
+      "options": [
+        "Presente do Indicativo",
+        "Pretérito Mais-que-perfeito",
+        "Futuro do Pretérito",
+        "Imperfeito do Subjuntivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "O Presente do Indicativo (chamado presente histórico ou narrativo) é a escolha padrão nas sinopses para aproximar a história do leitor."
+    }
+  ]
+}

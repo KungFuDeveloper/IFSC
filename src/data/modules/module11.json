@@ -1,0 +1,306 @@
+{
+  "id": 11,
+  "number": 11,
+  "title": "Módulo 11 — Pretérito Imperfeito e os Quatro Porquês",
+  "subtitle": "Pretérito imperfeito (ações em progresso e simultâneas), conectivos de expansão de relatos e o uso dos porquês",
+  "thematicContext": "Relatos do Passado, Histórias de Vida e Explicações Causais",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m11-g1",
+      "title": "Pretérito Imperfeito do Indicativo (Ações em Progresso e Simultaneidade)",
+      "category": "Morfologia Verbal",
+      "summary": "O Pretérito Imperfeito descreve hábitos passados, estados contínuos, ações em progresso no passado interrompidas por outra ou ações simultâneas.",
+      "rules": [
+        {
+          "title": "Usos Típicos do Pretérito Imperfeito",
+          "description": "Casos em que o imperfeito é indispensável no relato de experiências passadas.",
+          "table": {
+            "headers": [
+              "Função Semântica",
+              "Estrutura / Marcador",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Ação contínua interrompida",
+                "Imperfeito + quando + Pretérito Perfeito",
+                "Eu lia um livro quando o telefone tocou."
+              ],
+              [
+                "Ações simultâneas no passado",
+                "Imperfeito + enquanto + Imperfeito",
+                "Enquanto ela cozinhava, ele lavava a louça."
+              ],
+              [
+                "Hábito no passado",
+                "Costumava + inf. ou Imperfeito direto",
+                "Na infância, nós brincávamos na rua todos os dias."
+              ],
+              [
+                "Descrição de cenário/estado",
+                "Imperfeito de verbos estativos (ser, estar, ter, haver)",
+                "O dia estava ensolarado e havia muitas pessoas no parque."
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Conjugação Regular do Pretérito Imperfeito",
+          "description": "Terminações características para verbos regulares.",
+          "table": {
+            "headers": [
+              "Pessoa",
+              "Verbos em -AR (Cantar)",
+              "Verbos em -ER / -IR (Comer / Abrir)"
+            ],
+            "rows": [
+              [
+                "Eu",
+                "cantava",
+                "comia / abria"
+              ],
+              [
+                "Ele / Ela / Você",
+                "cantava",
+                "comia / abria"
+              ],
+              [
+                "Nós",
+                "cantávamos",
+                "comíamos / abríamos"
+              ],
+              [
+                "Eles / Elas / Vocês",
+                "cantavam",
+                "comiam / abriam"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Enquanto nós estudávamos na biblioteca, começou uma chuva torrencial.",
+          "en": "While we were studying in the library, a heavy downpour started.",
+          "highlight": "estudávamos (imperfeito) / começou (perfeito)"
+        },
+        {
+          "pt": "Antigamente, as pessoas escreviam cartas com frequência.",
+          "en": "In the past, people used to write letters frequently.",
+          "highlight": "escreviam"
+        }
+      ]
+    },
+    {
+      "id": "m11-g2",
+      "title": "O Uso dos Quatro Porquês na Língua Portuguesa",
+      "category": "Ortografia e Sintaxe",
+      "summary": "Regra definitiva para diferenciar: por que, porque, por quê e porquê.",
+      "rules": [
+        {
+          "title": "Guia Rápido dos Porquês",
+          "description": "Critérios sintáticos e de pontuação para cada forma.",
+          "table": {
+            "headers": [
+              "Forma",
+              "Classificação Sintática",
+              "Quando Usar",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Por que (separado sem acento)",
+                "Preposição 'por' + pronome 'que'",
+                "Início de perguntas diretas/indiretas OU equivale a 'pelo qual / por qual razão'",
+                "Por que você faltou à aula ontem? / Não sei por que ele se atrasou."
+              ],
+              [
+                "Porque (junto sem acento)",
+                "Conjunção explicativa ou causal",
+                "Em respostas e justificativas (equivale a 'pois', 'já que')",
+                "Faltei porque tive uma consulta médica."
+              ],
+              [
+                "Por quê (separado com acento)",
+                "Preposição + pronome tônico no fim de frase",
+                "Fim de frase ou isolado antes de pontuação",
+                "Eles não compareceram à reunião. Por quê?"
+              ],
+              [
+                "Porquê (junto com acento)",
+                "Substantivo masculino (acompanha artigo/pronome)",
+                "Significa 'o motivo', 'a razão'",
+                "Não entendi o porquê de tanta confusão."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "— Por que você não me avisou? — Porque fiquei sem bateria. — Sem bateria, por quê? — Não sei o porquê, mas descarregou rápido.",
+          "en": "— Why didn't you let me know? — Because I ran out of battery. — Out of battery, why? — I don't know the reason why, but it discharged quickly.",
+          "highlight": "Por que / Porque / por quê / o porquê"
+        }
+      ]
+    },
+    {
+      "id": "m11-g3",
+      "title": "Conectivos para Expandir Relatos Pessoais",
+      "category": "Coesão Textual",
+      "summary": "Expressões que dinamizam relatos autobiográficos e narrativas.",
+      "rules": [
+        {
+          "title": "Conectivos de Expansão Narrativa",
+          "description": "Dão ritmo e detalhamento ao discurso.",
+          "items": [
+            "Para além disso / Somado a isso (expansão aditiva)",
+            "Naquela época / Naquele tempo (contextualização de época)",
+            "De repente / Inesperadamente (quebra de expectativa / clímax)",
+            "Com o passar dos anos / Posteriormente (progressão temporal)"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Naquela época morávamos no interior; com o passar dos anos, mudamo-nos para a capital.",
+          "en": "At that time we lived in the countryside; with the passing of the years, we moved to the capital.",
+          "highlight": "Naquela época / com o passar dos anos"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Memórias, Histórias de Família e Conversas Nostálgicas",
+    "culturalNotes": "No Brasil, contar 'causos' (histórias pitorescas de família ou de cidade pequena) ao redor de uma mesa com café fresco e bolo de fubá é um traço afetivo marcante da cultura brasileira, especialmente em Minas Gerais, no Sul e no Nordeste.",
+    "dialogue": [
+      {
+        "speaker": "Vovô",
+        "text": "Na minha época, a gente não tinha celular nem internet. Nós brincávamos de esconde-esconde até o anoitecer.",
+        "translation": "In my time, we didn't have cell phones or internet. We used to play hide-and-seek until nightfall."
+      },
+      {
+        "speaker": "Neto",
+        "text": "E por que vocês voltavam para casa tão pontualmente?",
+        "translation": "And why did you return home so punctually?"
+      },
+      {
+        "speaker": "Vovô",
+        "text": "Porque quando a vovó chamava na janela, ninguém ousava desobedecer!",
+        "translation": "Because when grandma called out the window, nobody dared to disobey!"
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Causo",
+        "translation": "Folk story / anecdote (typical Brazilian storytelling)",
+        "example": "Meu avô adorava contar causos de assombração da fazenda."
+      },
+      {
+        "word": "Saudade",
+        "translation": "Longing / nostalgia (deep emotional feeling)",
+        "example": "Tenho muita saudade dos tempos em que morava perto da praia."
+      },
+      {
+        "word": "Antigamente",
+        "translation": "In the old days / formerly",
+        "example": "Antigamente a cidade era muito mais tranquila."
+      },
+      {
+        "word": "Infância",
+        "translation": "Childhood",
+        "example": "Passei toda a minha infância brincando na casa dos meus primos."
+      },
+      {
+        "word": "Recordação / Lembrança",
+        "translation": "Memory / keepsake",
+        "example": "Essa foto antiga é uma lembrança preciosa da família."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Naquela época, as coisas funcionavam de forma bem diferente.",
+        "translation": "At that time, things worked in a very different way.",
+        "situation": "Comparar épocas"
+      },
+      {
+        "phrase": "Bateu uma saudade enorme daqueles passeios de domingo!",
+        "translation": "A huge wave of nostalgia hit me for those Sunday outings!",
+        "situation": "Expressar saudade viva"
+      },
+      {
+        "phrase": "Não consigo entender o porquê de tudo ter mudado tão depressa.",
+        "translation": "I can't understand the reason why everything changed so quickly.",
+        "situation": "Reflexão sobre mudanças"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m11-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a alternativa que preenche CORRETAMENTE as lacunas com os porquês: '— ________ você não veio ontem? — Não vim ________ fiquei doente. — Mas não avisou por ________? — Esqueci o ________ de avisar.'",
+      "options": [
+        "Por que / porque / quê / porquê",
+        "Porque / por que / que / por quê",
+        "Por quê / por que / quê / porque",
+        "Por que / por que / por que / por que"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1. 'Por que' (início de pergunta direta); 2. 'porque' (resposta/justificativa); 3. 'quê' após a preposição por no fim da oração ('por quê'); 4. 'porquê' com artigo ('o porquê', substantivo)."
+    },
+    {
+      "id": "m11-p2",
+      "type": "multiple-choice",
+      "question": "Complete a frase com os verbos no Pretérito Imperfeito e Perfeito: 'Enquanto nós ________ futebol, ________ a chover forte.'",
+      "options": [
+        "jogávamos / começou",
+        "jogamos / começava",
+        "jogaríamos / começa",
+        "jogávamos / começasse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A ação em andamento no passado leva Pretérito Imperfeito ('jogávamos'), e a ação pontual que a interrompeu leva Pretérito Perfeito ('começou')."
+    },
+    {
+      "id": "m11-p3",
+      "type": "fill-in-blank",
+      "question": "Qual forma do porquê funciona como substantivo e aceita plural ('os porquês')?",
+      "options": [
+        "porquê",
+        "porque",
+        "por que",
+        "por quê"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Porquê' é o substantivo masculino que aceita artigos e plurais (ex.: os porquês da vida)."
+    },
+    {
+      "id": "m11-p4",
+      "type": "multiple-choice",
+      "question": "Qual das frases abaixo retrata um hábito costumeiro no passado?",
+      "options": [
+        "Todos os verões nós viajávamos para a casa de praia dos nossos tios.",
+        "Ontem viajei para a praia às oito da manhã.",
+        "Viajarei para a praia no próximo ano.",
+        "Se eu viajasse, ficaria muito feliz."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Viajávamos' no pretérito imperfeito expressa repetição habitual de ações ao longo do passado."
+    },
+    {
+      "id": "m11-p5",
+      "type": "multiple-choice",
+      "question": "Por que se acentua 'por quê' no final da frase 'Você não comeu nada. Por quê?'?",
+      "options": [
+        "Porque a palavra 'quê' torna-se um monossílabo tônico em posição final antes do ponto.",
+        "Porque é uma proparoxítona.",
+        "Porque toda pergunta exige acento circunflexo no português.",
+        "Porque é uma forma derivada de verbo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "No final de frase antes de pontuação, o pronome 'que' ganha força fonética e passa a ser monossílabo tônico terminado em -e, recebendo acento circunflexo (por quê)."
+    }
+  ]
+}

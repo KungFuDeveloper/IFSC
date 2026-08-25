@@ -1,0 +1,230 @@
+{
+  "id": 2,
+  "number": 2,
+  "title": "Módulo 2 — Hospedagem e Viagens",
+  "subtitle": "Vocabulário de hotelaria e passagens aéreas; contraste entre Presente e Futuro do Indicativo",
+  "thematicContext": "Hospedagem, Reservas e Passagens Aéreas",
+  "estimatedMinutes": 45,
+  "grammarTopics": [
+    {
+      "id": "m2-g1",
+      "title": "Presente vs. Futuro do Indicativo no Planejamento de Viagens",
+      "category": "Morfologia Verbal",
+      "summary": "Como expressar ações futuras em português: Futuro Simples (do Presente), Futuro Composto Perifrástico (ir + infinitivo) e Presente com valor de futuro.",
+      "rules": [
+        {
+          "title": "As Três Maneiras de Falar do Futuro",
+          "description": "No Brasil, a forma perifrástica (ir + infinitivo) é a mais frequente no dia a dia.",
+          "table": {
+            "headers": [
+              "Estrutura",
+              "Formação",
+              "Frequência e Registro",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Futuro Imediato / Perifrástico",
+                "Verbo IR (presente) + Infinitivo",
+                "Mais natural e comum no dia a dia",
+                "Eu vou viajar amanhã cedo."
+              ],
+              [
+                "Futuro do Presente (Simples)",
+                "Radical + -ei, -ás, -á, -emos, -ão",
+                "Formal, escrito, avisos oficiais",
+                "O voo partirá às 14h30."
+              ],
+              [
+                "Presente com valor de Futuro",
+                "Verbo no Presente + Marcador temporal",
+                "Comum para eventos já programados",
+                "Viajo no próximo sábado."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Amanhã nós vamos fazer o check-in no hotel ao meio-dia.",
+          "en": "Tomorrow we are going to check in at the hotel at noon.",
+          "highlight": "vamos fazer"
+        },
+        {
+          "pt": "A companhia aérea confirmará a emissão dos bilhetes por e-mail.",
+          "en": "The airline company will confirm ticket issuance by email.",
+          "highlight": "confirmará"
+        },
+        {
+          "pt": "Chego a Florianópolis na sexta-feira e fico até domingo.",
+          "en": "I arrive in Florianópolis on Friday and stay until Sunday.",
+          "highlight": "Chego / fico"
+        }
+      ],
+      "contrastNotes": "Na fala diária de quase todo o Brasil, 'eu vou comprar' substitui 'eu comprarei'. O futuro simples é reservado para escrita formal, jornalismo e anúncios formais."
+    },
+    {
+      "id": "m2-g2",
+      "title": "Expressões de Tempo Futuro e Condições de Reserva",
+      "category": "Sintaxe e Vocabulário",
+      "summary": "Expressões que projetam planos de viagem, prazos de cancelamento e datas de estadia.",
+      "rules": [
+        {
+          "title": "Locuções Temporais de Futuro",
+          "description": "Marcadores que situam a data da viagem.",
+          "items": [
+            "No próximo mês / na próxima semana / no ano que vem",
+            "Daqui a dois dias / daqui a três semanas (marcação de tempo decorrido até o evento)",
+            "Até o dia [data] / a partir de [data] (limites de estadia ou cancelamento)",
+            "Com antecedência (ex.: reservar com antecedência de 30 dias)"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Daqui a três semanas, vou tirar férias e viajar para o Nordeste.",
+          "en": "In three weeks, I'm going to take a vacation and travel to the Northeast.",
+          "highlight": "Daqui a três semanas"
+        },
+        {
+          "pt": "O cancelamento é gratuito até 48 horas antes da data da hospedagem.",
+          "en": "Cancellation is free up to 48 hours before the stay date.",
+          "highlight": "até 48 horas antes"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Hotel, Pousada e Compra de Passagens Aéreas",
+    "culturalNotes": "No Brasil, pousadas são muito populares em cidades históricas e praias, oferecendo acomodações charmosas muitas vezes com café da manhã regional farto incluído na diária.",
+    "dialogue": [
+      {
+        "speaker": "Recepcionista",
+        "text": "Boa tarde! Seja bem-vindo à Pousada Sol e Mar. O senhor tem reserva?",
+        "translation": "Good afternoon! Welcome to Pousada Sol e Mar. Do you have a reservation, sir?"
+      },
+      {
+        "speaker": "Hóspede",
+        "text": "Boa tarde! Tenho sim, em nome de Lucas Silveira. Gostaria de um quarto com cama de casal e vista para o mar.",
+        "translation": "Good afternoon! Yes, under the name of Lucas Silveira. I'd like a room with a double bed and sea view."
+      },
+      {
+        "speaker": "Recepcionista",
+        "text": "Perfeito! A diária inclui café da manhã servido das 7h às 10h. O check-out é às 12h.",
+        "translation": "Perfect! The daily rate includes breakfast served from 7 to 10 AM. Check-out is at 12 PM."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Diária",
+        "translation": "Daily rate / night stay",
+        "example": "Quanto custa a diária do quarto duplo?"
+      },
+      {
+        "word": "Pensão completa",
+        "translation": "Full board (all meals included)",
+        "example": "O resort opera em sistema de pensão completa."
+      },
+      {
+        "word": "Escala / Conexão",
+        "translation": "Layover / Connecting flight",
+        "example": "O voo faz uma conexão de duas horas em Brasília."
+      },
+      {
+        "word": "Franquia de bagagem",
+        "translation": "Baggage allowance",
+        "example": "Minha passagem inclui franquia de bagagem despachada de 23 kg."
+      },
+      {
+        "word": "Poltrona / Assento",
+        "translation": "Seat (on plane/bus)",
+        "example": "Prefiro assento na janela ou no corredor?"
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Gostaria de fazer o check-in / check-out.",
+        "translation": "I would like to check in / check out.",
+        "situation": "Na recepção do hotel"
+      },
+      {
+        "phrase": "A que horas é servido o café da manhã?",
+        "translation": "What time is breakfast served?",
+        "situation": "Perguntar sobre horários"
+      },
+      {
+        "phrase": "Tem taxa de cancelamento?",
+        "translation": "Is there a cancellation fee?",
+        "situation": "Consultar condições de compra"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m2-p1",
+      "type": "multiple-choice",
+      "question": "Em uma conversa informal entre amigos sobre uma viagem planejada para o fim de semana, qual estrutura é a MAIS NATURAL no português brasileiro falado?",
+      "options": [
+        "Nós viajaremos para a praia no sábado de manhã.",
+        "Nós vamos viajar para a praia no sábado de manhã.",
+        "Nós haveremos de viajar para a praia.",
+        "Nós viajaríamos para a praia no sábado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "No português brasileiro falado natural, a perífrase 'vamos viajar' (ir + infinitivo) é disparada a mais comum para expressar planos futuros."
+    },
+    {
+      "id": "m2-p2",
+      "type": "multiple-choice",
+      "question": "Qual termo refere-se à taxa de estadia referente a um dia de hospedagem em hotel ou pousada no Brasil?",
+      "options": [
+        "Diária",
+        "Passagem",
+        "Conexão",
+        "Franquia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Diária' é o termo técnico e cotidiano usado para designar o valor cobrado por um dia/noite de hospedagem."
+    },
+    {
+      "id": "m2-p3",
+      "type": "fill-in-blank",
+      "question": "Complete a frase com a preposição correta de tempo futuro: 'O nosso voo para Salvador vai decolar ________ dez minutos.'",
+      "options": [
+        "daqui a",
+        "há",
+        "desde",
+        "atrás de"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Daqui a' expressa tempo futuro decorrido a partir do momento atual ('daqui a dez minutos' = in ten minutes)."
+    },
+    {
+      "id": "m2-p4",
+      "type": "multiple-choice",
+      "question": "Qual a diferença entre 'voo direto' e 'voo com conexão'?",
+      "options": [
+        "No voo com conexão o passageiro troca de aeronave; no voo direto não há troca.",
+        "No voo direto o avião pousa em todas as cidades do caminho.",
+        "Voo direto sempre inclui bagagem grátis.",
+        "Não há diferença entre os dois termos no Brasil."
+      ],
+      "correctAnswer": 0,
+      "explanation": "No voo com conexão o passageiro precisa desembarcar e trocar de avião em um aeroporto intermediário."
+    },
+    {
+      "id": "m2-p5",
+      "type": "multiple-choice",
+      "question": "Complete com o verbo no Futuro do Presente Simples (escrita formal de bilhete): 'Informamos que o hotel ________ o hóspede a partir das 14 horas.'",
+      "options": [
+        "receberá",
+        "recebeu",
+        "recebesse",
+        "receberia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Em comunicados formais escritos, utiliza-se o Futuro do Presente Simples do indicativo: 'o hotel receberá'."
+    }
+  ]
+}

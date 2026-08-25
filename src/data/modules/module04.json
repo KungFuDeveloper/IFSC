@@ -1,0 +1,300 @@
+{
+  "id": 4,
+  "number": 4,
+  "title": "Módulo 4 — Clima, Imperativo e Paroxítonas",
+  "subtitle": "Imperativo afirmativo, adjuntos adverbiais, provérbios sobre clima e acentuação de paroxítonas",
+  "thematicContext": "Previsão do Tempo, Recomendações e Sabedoria Popular",
+  "estimatedMinutes": 50,
+  "grammarTopics": [
+    {
+      "id": "m4-g1",
+      "title": "Imperativo Afirmativo (Conselhos, Instruções e Recomendações)",
+      "category": "Morfologia e Sintaxe Verbal",
+      "summary": "O modo imperativo é usado para dar instruções, ordens, conselhos e fazer pedidos cordiais.",
+      "rules": [
+        {
+          "title": "Formação do Imperativo Afirmativo (Você / Vocês / Nós)",
+          "description": "No português brasileiro falado e formal, 'você' e 'vocês' derivam diretamente do Presente do Subjuntivo.",
+          "table": {
+            "headers": [
+              "Pessoa",
+              "Verbos em -AR (Levar)",
+              "Verbos em -ER (Beber)",
+              "Verbos em -IR (Abrir)"
+            ],
+            "rows": [
+              [
+                "Você",
+                "leve! (leve o guarda-chuva)",
+                "beba! (beba bastante água)",
+                "abra! (abra a janela)"
+              ],
+              [
+                "Nós",
+                "levemos! (vamos levar)",
+                "bebamos! (vamos beber)",
+                "abramos! (vamos abrir)"
+              ],
+              [
+                "Vocês",
+                "levem!",
+                "bebam!",
+                "abram!"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Leve um casaco pesado porque a temperatura vai cair à noite!",
+          "en": "Take a heavy coat because the temperature will drop at night!",
+          "highlight": "Leve"
+        },
+        {
+          "pt": "Beba bastante líquido nos dias secos de verão.",
+          "en": "Drink plenty of fluids on dry summer days.",
+          "highlight": "Beba"
+        },
+        {
+          "pt": "Não saia de casa sem conferir a previsão meteorológica.",
+          "en": "Don't leave home without checking the weather forecast.",
+          "highlight": "Não saia"
+        }
+      ],
+      "contrastNotes": "No Brasil, a forma 'Você' (do subjuntivo: 'fale', 'coma', 'venha') é a forma padrão para instruções e conselhos. A 2ª pessoa gramatical 'Tu' clássica ('fala tu') é ouvida regionalmente no Sul e Norte, mas 'Você' é universalmente compreendido."
+    },
+    {
+      "id": "m4-g2",
+      "title": "Adjuntos Adverbiais na Descrição Climática",
+      "category": "Sintaxe",
+      "summary": "Adjuntos adverbiais modificam verbos, adjetivos ou outros advérbios, indicando circunstâncias de tempo, lugar, modo, intensidade e causa.",
+      "rules": [
+        {
+          "title": "Principais Circunstâncias Adverbiais",
+          "description": "Exemplos aplicados a descrições do tempo e clima.",
+          "table": {
+            "headers": [
+              "Circunstância",
+              "Expressão / Adjunto",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Tempo",
+                "pela manhã, ontem à tarde, de repente",
+                "Choveu torrencialmente pela manhã."
+              ],
+              [
+                "Lugar",
+                "no litoral, no interior, na serra",
+                "Faz muito frio na serra gaúcha."
+              ],
+              [
+                "Modo",
+                "lentamente, com força, suavemente",
+                "O vento soprava com intensidade."
+              ],
+              [
+                "Intensidade",
+                "bastante, excessivamente, muito",
+                "O clima estava excessivamente úmido."
+              ],
+              [
+                "Causa",
+                "devido à frente fria, por causa do calor",
+                "O voo atrasou por causa da neblina."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "De repente, o céu escureceu no litoral por causa da tempestade.",
+          "en": "Suddenly, the sky darkened on the coast because of the storm.",
+          "highlight": "De repente (tempo) / no litoral (lugar) / por causa da tempestade (causa)"
+        }
+      ]
+    },
+    {
+      "id": "m4-g3",
+      "title": "Acentuação das Palavras Paroxítonas",
+      "category": "Ortografia Oficial",
+      "summary": "A maioria das palavras do português são paroxítonas (sílaba tônica na penúltima). Por isso, SÓ são acentuadas as paroxítonas que têm terminações específicas.",
+      "rules": [
+        {
+          "title": "Terminações de Paroxítonas Acentuadas",
+          "description": "Acentuam-se paroxítonas terminadas em: -r, -x, -n, -l (regra mnemônica 'ROUXINOL'), -i(s), -us, -um(uns), -ps, e ditongos crescentes.",
+          "table": {
+            "headers": [
+              "Terminação",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "-r, -x, -n, -l",
+                "açúcar, caráter, tórax, clímax, próton, pólen, fácil, amável, fóssil"
+              ],
+              [
+                "-i, -is, -us",
+                "táxi, júri, lápis, grátis, vírus, bônus"
+              ],
+              [
+                "-um, -uns, -ã(s), -ão(s)",
+                "álbum, álbuns, órfã, órgãos, sótão"
+              ],
+              [
+                "-ps",
+                "bíceps, fórceps"
+              ],
+              [
+                "Ditongo oral (crescente/decrescente)",
+                "história, água, relógio, colégio, série, língua"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "A previsão indica que o clima na serra será amável e agradável.",
+          "en": "The forecast indicates the weather in the mountains will be lovely and pleasant.",
+          "highlight": "amável (paroxítona em -l)"
+        },
+        {
+          "pt": "Pegue o táxi para o colégio antes que a chuva comece.",
+          "en": "Take the taxi to school before the rain starts.",
+          "highlight": "táxi (paroxítona em -i) / colégio (paroxítona terminada em ditongo)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Previsão do Tempo, Estações e Ditos Populares",
+    "culturalNotes": "O Brasil possui grande variedade climática: clima equatorial na Amazônia, semiárido no Nordeste, tropical no Sudeste/Centro-Oeste e subtropical no Sul (com ocorrência de geadas e até neve nas serras).",
+    "dialogue": [
+      {
+        "speaker": "Apresentador",
+        "text": "Boa noite! A previsão para amanhã alerta para pancadas de chuva isoladas e calor intenso à tarde.",
+        "translation": "Good evening! Tomorrow's forecast warns of isolated rain showers and intense heat in the afternoon."
+      },
+      {
+        "speaker": "Morador",
+        "text": "Como diz o ditado: 'Depois da tempestade sempre vem a bonança'. Melhor levar o guarda-chuva!",
+        "translation": "As the saying goes: 'After the storm always comes the calm'. Better take the umbrella!"
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Pancada de chuva",
+        "translation": "Sudden heavy shower / rain shower",
+        "example": "Ocorrência de pancadas de chuva no fim da tarde."
+      },
+      {
+        "word": "Sensação térmica",
+        "translation": "Wind chill / thermal sensation",
+        "example": "A temperatura é de 32°C, mas a sensação térmica chega a 38°C."
+      },
+      {
+        "word": "Neblina / Nevoeiro",
+        "translation": "Fog / mist",
+        "example": "O aeroporto fechou para pousos devido à neblina espessa."
+      },
+      {
+        "word": "Mormaço",
+        "translation": "Muggy / overcast humid heat",
+        "example": "Mesmo sem sol direto, esse mormaço queima a pele."
+      },
+      {
+        "word": "Estiagem",
+        "translation": "Dry spell / drought season",
+        "example": "O período de estiagem deixou os reservatórios baixos."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Depois da tempestade vem a bonança.",
+        "translation": "After the storm comes the calm.",
+        "situation": "Provérbio popular de otimismo"
+      },
+      {
+        "phrase": "São Pedro não colaborou hoje!",
+        "translation": "Saint Peter didn't cooperate today! (meaning: it rained on our plans)",
+        "situation": "Expressão bem-humorada sobre chuva"
+      },
+      {
+        "phrase": "Está um calor de rachar!",
+        "translation": "It's scorching hot!",
+        "situation": "Expressão coloquial brasileira"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m4-p1",
+      "type": "multiple-choice",
+      "question": "Transforme o conselho no modo IMPERATIVO AFIRMATIVO (tratando a pessoa por 'você'): '(Proteger-se) do sol e (beber) muita água.'",
+      "options": [
+        "Proteja-se do sol e beba muita água.",
+        "Protege-se do sol e bebe muita água.",
+        "Protejam-se do sol e bebam muita água.",
+        "Protegendo do sol e bebendo muita água."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para o pronome 'você', o imperativo afirmativo dos verbos 'proteger' (2ª conjugação) e 'beber' (2ª conjugação) é formado com a vogal temática 'a': 'Proteja-se' e 'beba'."
+    },
+    {
+      "id": "m4-p2",
+      "type": "multiple-choice",
+      "question": "Qual das alternativas contém APENAS palavras paroxítonas que devem ser acentuadas?",
+      "options": [
+        "tórax, açúcar, história, táxi",
+        "café, parabéns, cipó, maracujá",
+        "lâmpada, médico, sábado, física",
+        "mala, casa, janela, parede"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tórax (em -x), açúcar (em -r), história (em ditongo oral), táxi (em -i) são todas paroxítonas acentuadas pelas regras específicas."
+    },
+    {
+      "id": "m4-p3",
+      "type": "fill-in-blank",
+      "question": "Na frase 'Choveu torrencialmente no litoral durante a madrugada', a expressão 'durante a madrugada' classifica-se como adjunto adverbial de ________.",
+      "options": [
+        "tempo",
+        "lugar",
+        "modo",
+        "intensidade"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Durante a madrugada' indica o momento cronológico em que a ação ocorreu, tratando-se de adjunto adverbial de tempo."
+    },
+    {
+      "id": "m4-p4",
+      "type": "multiple-choice",
+      "question": "O que significa a expressão popular brasileira 'está um mormaço'?",
+      "options": [
+        "Está um tempo nublado e abafado/quente com alta umidade.",
+        "Está caindo uma tempestade de granizo congelante.",
+        "O vento está extremamente seco e frio.",
+        "O céu está completamente azul sem nenhuma nuvem."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Mormaço' é o calor abafado e úmido típico de dias nublados no Brasil."
+    },
+    {
+      "id": "m4-p5",
+      "type": "multiple-choice",
+      "question": "Assinale a opção correta quanto à concordância do imperativo: 'Por favor, ________ a janela e não ________ a porta bater.'",
+      "options": [
+        "abra / deixe",
+        "abre / deixa",
+        "abra / deixa",
+        "abri / deixais"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mantendo a uniformidade de tratamento na 3ª pessoa ('você'): 'abra' (imperativo afirmativo) e 'não deixe' (imperativo negativo)."
+    }
+  ]
+}

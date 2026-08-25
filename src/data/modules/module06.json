@@ -1,0 +1,303 @@
+{
+  "id": 6,
+  "number": 6,
+  "title": "Módulo 6 — Agendamento, Telefone e Fonética Nasal",
+  "subtitle": "Agendar compromissos, infinitivo, 'ir + ter que + inf.', linguagem telefônica, conectivos e nasalização",
+  "thematicContext": "Agendamento de Consultas, Interlocução Telefônica e Justificativas",
+  "estimatedMinutes": 50,
+  "grammarTopics": [
+    {
+      "id": "m6-g1",
+      "title": "Agendar Compromissos: O Infinitivo e a Locução 'Ir + Ter que + Infinitivo'",
+      "category": "Morfossintaxe",
+      "summary": "Expressar obrigações futuras e remarcação de compromissos no cotidiano pessoal e profissional.",
+      "rules": [
+        {
+          "title": "Estruturas de Obrigação e Agendamento",
+          "description": "Comparativo das formas de expressar necessidade ou dever.",
+          "table": {
+            "headers": [
+              "Estrutura",
+              "Grau de Obrigação",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Ter que + Infinitivo",
+                "Obrigação geral no presente",
+                "Tenho que confirmar o horário da consulta."
+              ],
+              [
+                "Ir + ter que + Infinitivo",
+                "Obrigação inevitável no futuro",
+                "Amanhã eu vou ter que remarcar nossa reunião."
+              ],
+              [
+                "Precisar + Infinitivo",
+                "Necessidade prática",
+                "Preciso agendar uma consulta com o cardiologista."
+              ],
+              [
+                "Dever + Infinitivo",
+                "Dever moral ou recomendação",
+                "Você deve chegar com 15 minutos de antecedência."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Infelizmente, amanhã vou ter que viajar a trabalho e não poderei comparecer.",
+          "en": "Unfortunately, tomorrow I'm going to have to travel for work and won't be able to attend.",
+          "highlight": "vou ter que viajar"
+        },
+        {
+          "pt": "Gostaria de agendar uma consulta para a próxima terça-feira às 14 horas.",
+          "en": "I would like to schedule an appointment for next Tuesday at 2 PM.",
+          "highlight": "agendar uma consulta"
+        }
+      ]
+    },
+    {
+      "id": "m6-g2",
+      "title": "Linguagem e Expressões de Interlocução Telefônica",
+      "category": "Pragmática e Comunicação Oral",
+      "summary": "Fórmulas padrão de abertura, espera, identificação e encerramento em chamadas telefônicas no Brasil.",
+      "rules": [
+        {
+          "title": "Frases Típicas ao Telefone",
+          "description": "Convenções brasileiras para ligações formais e informais.",
+          "table": {
+            "headers": [
+              "Momento",
+              "Expressão em Português",
+              "Tradução / Função"
+            ],
+            "rows": [
+              [
+                "Atendimento",
+                "Alô! / Pronto! / Clínica Saúde, bom dia!",
+                "Hello! / Answering call"
+              ],
+              [
+                "Quem fala?",
+                "Quem fala, por favor? / Quem gostaria?",
+                "Who is speaking, please?"
+              ],
+              [
+                "Pedir para falar com alguém",
+                "Gostaria de falar com o Dr. Marcos, por favor.",
+                "May I speak with Dr. Marcos, please?"
+              ],
+              [
+                "Pedir para aguardar",
+                "Só um instante, vou transferir a ligação.",
+                "Just a moment, I'll transfer the call."
+              ],
+              [
+                "Recado",
+                "Ele não pode atender no momento. Quer deixar recado?",
+                "He can't take it now. Want to leave a message?"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Alô, bom dia! Aqui é o Fernando. Gostaria de falar com a secretária, por gentileza.",
+          "en": "Hello, good morning! This is Fernando speaking. I'd like to speak with the receptionist, please.",
+          "highlight": "Aqui é o Fernando / Gostaria de falar"
+        }
+      ]
+    },
+    {
+      "id": "m6-g3",
+      "title": "Conectivos em Justificativas e Explicações",
+      "category": "Coesão Textual",
+      "summary": "Conectivos causais e explicativos para justificar atrasos, faltas ou reagendamentos.",
+      "rules": [
+        {
+          "title": "Principais Conectivos Explicativos e Causais",
+          "description": "Usados para ligar a justificativa ao fato.",
+          "items": [
+            "porque / pois (ex.: Não fui porque tive um imprevisto)",
+            "já que / visto que / uma vez que (ex.: Já que o médico se atrasou, vou remarcar)",
+            "devido a / por causa de (ex.: O atraso ocorreu devido ao trânsito intenso)",
+            "portanto / por isso (conclusivos: Estava chovendo muito, por isso me atrasei)"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Não poderei ir à aula hoje porque tive uma emergência familiar.",
+          "en": "I won't be able to go to class today because I had a family emergency.",
+          "highlight": "porque"
+        },
+        {
+          "pt": "Visto que a reunião foi cancelada, podemos adiantar o relatório.",
+          "en": "Since the meeting was canceled, we can work ahead on the report.",
+          "highlight": "Visto que"
+        }
+      ]
+    },
+    {
+      "id": "m6-g4",
+      "title": "Fonética: A Nasalização no Português Brasileiro",
+      "category": "Fonética e Fonologia",
+      "summary": "A nasalidade é uma das marcas mais distintivas do português brasileiro. O ar ressoa simultaneamente pela boca e pelas fossas nasais.",
+      "rules": [
+        {
+          "title": "Mecanismos de Produção dos Sons Nasais",
+          "description": "Grafias que produzem o som nasal.",
+          "items": [
+            "Vogal com til (~): ã, õ (irmã, maçã, pão, corações)",
+            "Vogal seguida de 'm' ou 'n' na mesma sílaba: campo, tempo, cinto, sombra, mundo, canto",
+            "Dígrafo 'nh': ninho, caminho, carinho, banho",
+            "Dica de pronúncia: o velo palatino abaixa, permitindo que parte do fluxo de ar passe pelo nariz."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O cão comeu o pão com presunto no jardim da mansão.",
+          "en": "The dog ate the bread with ham in the mansion garden.",
+          "highlight": "cão / pão / com / presunto / jardim / mansão (todos sons nasais)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Consultas Médicas, Agendamentos e Chamadas Telefônicas",
+    "culturalNotes": "No Brasil, é comum ligar para consultórios ou enviar mensagens de WhatsApp profissional para agendar, confirmar ou desmarcar consultas. A pontualidade é esperada, mas imprevistos de trânsito em grandes capitais são frequentes.",
+    "dialogue": [
+      {
+        "speaker": "Secretária",
+        "text": "Consultório Dr. Roberto, bom dia! Em que posso ajudar?",
+        "translation": "Dr. Roberto's office, good morning! How may I help you?"
+      },
+      {
+        "speaker": "Paciente",
+        "text": "Bom dia! Eu precisava remarcar minha consulta de quinta-feira, pois vou ter que fazer uma viagem de última hora.",
+        "translation": "Good morning! I needed to reschedule my Thursday appointment, as I'm going to have to make a last-minute trip."
+      },
+      {
+        "speaker": "Secretária",
+        "text": "Sem problemas! Temos horário disponível para a próxima segunda-feira às 15 horas. Fica bom para o senhor?",
+        "translation": "No problem! We have an opening next Monday at 3 PM. Does that work for you, sir?"
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Agendamento",
+        "translation": "Scheduling / booking",
+        "example": "Recebi a confirmação do agendamento por mensagem."
+      },
+      {
+        "word": "Remarcar / Desmarcar",
+        "translation": "Reschedule / Cancel appointment",
+        "example": "Preciso remarcar minha consulta para outra data."
+      },
+      {
+        "word": "Imprevisto",
+        "translation": "Unforeseen event / contingency",
+        "example": "Tive um imprevisto no trânsito e vou me atrasar 10 minutos."
+      },
+      {
+        "word": "Transferir a ligação",
+        "translation": "Transfer the call",
+        "example": "Aguarde na linha enquanto transfiro a ligação para o setor responsável."
+      },
+      {
+        "word": "Comprovante de comparecimento",
+        "translation": "Proof of attendance (medical excuse note)",
+        "example": "O médico me deu um atestado e um comprovante de comparecimento."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Gostaria de agendar um horário com o(a) especialista.",
+        "translation": "I'd like to book an appointment with the specialist.",
+        "situation": "Marcar consulta"
+      },
+      {
+        "phrase": "Sinto muito pelo imprevisto, podemos remarcar?",
+        "translation": "I'm sorry for the unforeseen issue, could we reschedule?",
+        "situation": "Pedir desculpas por reagendamento"
+      },
+      {
+        "phrase": "A ligação está falhando / cortando.",
+        "translation": "The call is breaking up / dropping.",
+        "situation": "Problema técnico na chamada"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m6-p1",
+      "type": "multiple-choice",
+      "question": "Complete a justificativa com o conectivo causal mais adequado: 'O aluno não pôde comparecer à prova ________ estava hospitalizado.'",
+      "options": [
+        "porque",
+        "portanto",
+        "contudo",
+        "embora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Porque' introduz a oração causal que justifica o motivo da ausência do aluno."
+    },
+    {
+      "id": "m6-p2",
+      "type": "multiple-choice",
+      "question": "Qual frase expressa uma obrigação inevitável no FUTURO utilizando a locução 'ir + ter que + infinitivo'?",
+      "options": [
+        "Amanhã nós vamos ter que refazer todo o planejamento.",
+        "Nós temos que fazer o trabalho agora.",
+        "Nós tivemos que sair mais cedo ontem.",
+        "Nós teríamos que ir se houvesse tempo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Vamos ter que refazer' é a estrutura exata de 'ir + ter que + infinitivo' projetada para o futuro."
+    },
+    {
+      "id": "m6-p3",
+      "type": "fill-in-blank",
+      "question": "Ao atender o telefone no Brasil de maneira padrão, a palavra mais comumente dita é '________!'.",
+      "options": [
+        "Alô",
+        "Diga",
+        "Ouça",
+        "Fale"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Alô!' é a saudação padrão universal ao atender telefone no Brasil."
+    },
+    {
+      "id": "m6-p4",
+      "type": "multiple-choice",
+      "question": "Qual das palavras abaixo NÃO possui som nasal em nenhuma de suas sílabas?",
+      "options": [
+        "Pássaro",
+        "Coração",
+        "Ponte",
+        "Manta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Pássaro' possui apenas vogais orais ('pá-ssa-ro'). 'Coração' (ão), 'Ponte' (on), e 'Manta' (an) possuem vogais nasais."
+    },
+    {
+      "id": "m6-p5",
+      "type": "multiple-choice",
+      "question": "Quando você liga para um consultório e pede para esperar na linha, a secretária costuma dizer:",
+      "options": [
+        "Só um instante, por favor.",
+        "Vá embora agora.",
+        "Desligue imediatamente.",
+        "Não me ligue mais."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Só um instante, por favor' é a fórmula cordial e padrão de solicitação de espera em atendimentos telefônicos."
+    }
+  ]
+}

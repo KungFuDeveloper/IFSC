@@ -1,0 +1,273 @@
+{
+  "id": 18,
+  "number": 18,
+  "title": "Módulo 18 — Direitos, Cidadania e a Crase",
+  "subtitle": "Constituição e direitos, abaixo-assinado, conjunções de finalidade, preposições e o guia definitivo da crase",
+  "thematicContext": "Cidadania Ativa, Direitos Fundamentais, Abaixo-Assinado e Síntese Gramatical",
+  "estimatedMinutes": 60,
+  "grammarTopics": [
+    {
+      "id": "m18-g1",
+      "title": "O Guia Definitivo do Uso e Não Uso da Crase (à / às)",
+      "category": "Sintaxe e Ortografia Fundamental",
+      "summary": "A crase é a fusão da preposição 'a' com o artigo feminino 'a(s)' ou pronomes demonstrativos (aquele, aquela, aquilo).",
+      "rules": [
+        {
+          "title": "1. Regra Prática de Substituição (Mascete do Masculino)",
+          "description": "Para saber se há crase diante de palavra feminina, troque a palavra feminina por uma masculina equivalente. Se virar 'AO', usa-se crase com acento grave (`à`).",
+          "table": {
+            "headers": [
+              "Frase Feminina",
+              "Teste com Masculino",
+              "Resultado da Crase"
+            ],
+            "rows": [
+              [
+                "Vou à escola.",
+                "Vou AO colégio.",
+                "Tem crase (à escola)"
+              ],
+              [
+                "Entreguei o documento à diretora.",
+                "Entreguei o documento AO diretor.",
+                "Tem crase (à diretora)"
+              ],
+              [
+                "Conheço a cidade.",
+                "Conheço O bairro (não vira AO).",
+                "NÃO tem crase (apenas artigo 'a')"
+              ],
+              [
+                "Dirigi-me à estação.",
+                "Dirigi-me AO terminal.",
+                "Tem crase (à estação)"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "2. Casos Proibidos da Crase (NUNCA Ocorre Crase)",
+          "description": "Situações onde o acento grave é terminantemente proibido.",
+          "items": [
+            "Antes de palavras masculinas: andar a pé, andar a cavalo, pagar a prazo, bife a cavalo",
+            "Antes de verbos: começou a chorar, disposto a ajudar, pôs-se a cantar",
+            "Antes de pronomes pessoais, de tratamento e indefinidos: disse a ela, pediu a você, solicitou a Vossa Senhoria, entregou a qualquer pessoa (exceção: dona, senhora, senhorita)",
+            "Entre palavras repetidas em expressões: cara a cara, dia a dia, gota a gota, frente a frente",
+            "Quando a preposição 'a' estiver no singular antes de palavra feminina no plural: 'Refiro-me a pessoas honestas' (sem crase; com crase seria: 'às pessoas')"
+          ]
+        },
+        {
+          "title": "3. Casos Facultativos da Crase",
+          "description": "O uso do acento grave é opcional nestas 3 situações (regra mnemônica 'NOME DE MULHER, PRONOME POSSESSIVO E ATÉ'):",
+          "items": [
+            "Antes de nomes próprios femininos: Enviei flores a Mariana / Enviei flores à Mariana.",
+            "Antes de pronomes possessivos femininos singulares: Refiro-me a sua mãe / Refiro-me à sua mãe.",
+            "Depois da preposição 'até': Fui até a praia / Fui até à praia."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Todos têm direito à educação pública e acesso à saúde de qualidade.",
+          "en": "Everyone has the right to public education and access to quality healthcare.",
+          "highlight": "à educação / à saúde (direito ao estudo / acesso ao hospital)"
+        },
+        {
+          "pt": "Eles começaram a redigir o documento e entregaram o pedido a ela sem demora.",
+          "en": "They started to draft the document and delivered the petition to her without delay.",
+          "highlight": "a redigir (antes de verbo) / a ela (antes de pronome pessoal)"
+        }
+      ]
+    },
+    {
+      "id": "m18-g2",
+      "title": "Conjunções e Locuções de Finalidade",
+      "category": "Sintaxe das Orações Subordinadas",
+      "summary": "Expressam o propósito, objetivo ou meta de uma ação.",
+      "rules": [
+        {
+          "title": "Locuções Finais e Modos Verbais",
+          "description": "Uso com Subjuntivo ou Infinitivo.",
+          "table": {
+            "headers": [
+              "Locução Final",
+              "Regência e Modo Verbal",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "A fim de que / Para que",
+                "Exige Verbo no Subjuntivo (sujeitos diferentes)",
+                "Organizamos o abaixo-assinado a fim de que as autoridades ouçam a comunidade."
+              ],
+              [
+                "A fim de / Para",
+                "Exige Verbo no Infinitivo (mesmo sujeito)",
+                "Reunimo-nos para reivindicar melhorias no transporte."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Os moradores protocolaram a petição a fim de garantir a reforma da praça.",
+          "en": "The residents filed the petition in order to guarantee the square's renovation.",
+          "highlight": "a fim de garantir"
+        }
+      ],
+      "contrastNotes": "Atenção ortográfica: 'a fim de' (com espaço = propósito/objetivo) vs. 'afim' (junto = semelhante, com afinidade, ex.: ideias afins)."
+    },
+    {
+      "id": "m18-g3",
+      "title": "Gênero Textual Abaixo-Assinado e Vocabulário Constitucional",
+      "category": "Cidadania e Documentos Públicos",
+      "summary": "O abaixo-assinado é um instrumento coletivo legítimo de petição popular previsto nos direitos de cidadania.",
+      "rules": [
+        {
+          "title": "Estrutura Padrão de um Abaixo-Assinado",
+          "description": "Norma para criação de petições comunitárias.",
+          "items": [
+            "1. Vocativo / Destinatário: autoridade competente (ex.: 'Ao Excelentíssimo Senhor Prefeito')",
+            "2. Corpo do texto: identificação do grupo de cidadãos, exposição detalhada da demanda e fundamentação legal",
+            "3. Fecho formal: local, data e lista de signatários com nome legível, CPF e assinatura"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Nós, abaixo-assinados, cidadãos residentes no bairro, vimos solicitar a instalação de semáforo no cruzamento da Avenida Brasil.",
+          "en": "We, the undersigned, citizens residing in the neighborhood, hereby request the installation of a traffic light at the intersection of Avenida Brasil.",
+          "highlight": "Nós, abaixo-assinados"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Cidadania, Constituição de 1988 e Direitos Fundamentais",
+    "culturalNotes": "A Constituição Brasileira de 1988, conhecida como a 'Constituição Cidadã', consolidou garantias fundamentais como o SUS (Sistema Único de Saúde gratuito e universal), educação pública, voto direto e universal aos 16 anos (facultativo) e proteção aos direitos humanos e ao consumidor (PROCON).",
+    "dialogue": [
+      {
+        "speaker": "Líder Comunitário",
+        "text": "Estamos colhendo assinaturas no abaixo-assinado a fim de que a linha de ônibus seja estendida até o novo posto de saúde.",
+        "translation": "We are collecting signatures on the petition in order for the bus line to be extended to the new health clinic."
+      },
+      {
+        "speaker": "Morador",
+        "text": "Excelente iniciativa! O acesso à saúde é um direito garantido pela Constituição a todos os cidadãos.",
+        "translation": "Excellent initiative! Access to healthcare is a right guaranteed by the Constitution to all citizens."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Abaixo-assinado",
+        "translation": "Petition (collective signed document)",
+        "example": "O abaixo-assinado reuniu mais de mil assinaturas de moradores."
+      },
+      {
+        "word": "Direitos fundamentais",
+        "translation": "Fundamental rights",
+        "example": "O direito à vida, à liberdade e à igualdade são direitos fundamentais."
+      },
+      {
+        "word": "SUS (Sistema Único de Saúde)",
+        "translation": "Unified Health System (Brazil's free public healthcare)",
+        "example": "O SUS garante atendimento médico e vacinação gratuita a qualquer pessoa."
+      },
+      {
+        "word": "Órgão competente",
+        "translation": "Competent authority / agency",
+        "example": "O documento foi encaminhado ao órgão competente para análise."
+      },
+      {
+        "word": "Cidadania ativa",
+        "translation": "Active citizenship",
+        "example": "Participar das audiências públicas da cidade é um exercício de cidadania ativa."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Nós, abaixo-assinados, vimos por meio deste reivindicar...",
+        "translation": "We, the undersigned, hereby demand...",
+        "situation": "Início de abaixo-assinado"
+      },
+      {
+        "phrase": "É assegurado a todos o direito de petição aos poderes públicos.",
+        "translation": "The right to petition public authorities is guaranteed to all.",
+        "situation": "Artigo constitucional"
+      },
+      {
+        "phrase": "Todos os cidadãos têm direito à ampla defesa e ao contraditório.",
+        "translation": "All citizens have the right to full defense and adversary proceedings.",
+        "situation": "Garantia jurídica"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m18-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a alternativa em que o uso do acento grave indicativo de CRASE está CORRETO:",
+      "options": [
+        "O acesso à saúde pública é garantido a todos os cidadãos.",
+        "O cidadão começou à reclamar dos serviços.",
+        "Eles foram à pé até o tribunal.",
+        "Entreguei a petição à ele ontem."
+      ],
+      "correctAnswer": 0,
+      "explanation": "1. 'acesso à saúde' tem crase porque pede preposição 'a' + artigo feminino 'a' (teste: acesso ao hospital). 2, 3 e 4 estão erradas porque não há crase antes de verbo ('reclamar'), palavra masculina ('pé') ou pronome pessoal ('ele')."
+    },
+    {
+      "id": "m18-p2",
+      "type": "multiple-choice",
+      "question": "Em qual dos casos abaixo o uso da crase é FACULTATIVO (opcional)?",
+      "options": [
+        "Antes de pronome possessivo feminino singular (ex.: Entreguei o documento a/à minha advogada).",
+        "Antes de verbos no infinitivo.",
+        "Antes de palavras masculinas.",
+        "Em expressões com palavras repetidas como 'gota a gota'."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A crase é facultativa antes de pronomes possessivos femininos no singular (minha, tua, sua, nossa), antes de nomes próprios femininos e após a preposição 'até'."
+    },
+    {
+      "id": "m18-p3",
+      "type": "fill-in-blank",
+      "question": "Complete com a locução conjuntiva de finalidade correta: 'Os cidadãos se reuniram ________ que o prefeito ouvisse as reivindicações.'",
+      "options": [
+        "a fim de",
+        "afim de",
+        "a fim",
+        "afins de"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'A fim de que' (separado) expressa finalidade / objetivo e rege o subjuntivo ('ouvisse')."
+    },
+    {
+      "id": "m18-p4",
+      "type": "multiple-choice",
+      "question": "Por que NÃO há crase na frase 'Fizemos uma caminhada a pé pelo parque'?",
+      "options": [
+        "Porque 'pé' é uma palavra masculina (não aceita o artigo feminino 'a').",
+        "Porque 'pé' é um verbo.",
+        "Porque a frase está no pretérito.",
+        "Porque parques municipais proíbem acento."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nunca ocorre crase antes de substantivos masculinos ('a pé', 'a cavalo', 'a prazo', 'a bordo')."
+    },
+    {
+      "id": "m18-p5",
+      "type": "multiple-choice",
+      "question": "O que é a 'Constituição Cidadã' de 1988 no Brasil?",
+      "options": [
+        "A lei máxima do país, promulgada em 1988, que consolidou a democracia e os direitos sociais fundamentais.",
+        "Um código de trânsito para motoristas de ônibus.",
+        "Um livro de culinária tradicional brasileira.",
+        "Um estatuto exclusivo para diplomatas estrangeiros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A Constituição Federal de 1988 é a Carta Magna do Brasil que restabeleceu a ordem democrática e consagrou amplos direitos humanos e sociais."
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": 8,
+  "number": 8,
+  "title": "Módulo 8 — Meio Ambiente e Argumentação",
+  "subtitle": "Vocabulário de ecologia e reciclagem, conectivos argumentativos e expressões de sugestão e possibilidade",
+  "thematicContext": "Sustentabilidade, Descarte Consciente e Debates Ambientais",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m8-g1",
+      "title": "Conectivos Argumentativos (Preposições, Conjunções e Locuções)",
+      "category": "Sintaxe e Coesão Textual",
+      "summary": "Conectivos estruturam argumentos, estabelecendo relações de oposição, concessão, causa, consequência e adição.",
+      "rules": [
+        {
+          "title": "Quadro Geral dos Conectivos Argumentativos",
+          "description": "Classificação por sentido discursivo.",
+          "table": {
+            "headers": [
+              "Relação Semântica",
+              "Conectivos e Locuções",
+              "Exemplo em Contexto"
+            ],
+            "rows": [
+              [
+                "Oposição / Adversidade",
+                "mas, porém, contudo, todavia, no entanto",
+                "O projeto é promissor, contudo faltam recursos."
+              ],
+              [
+                "Concessão (quebra de expectativa)",
+                "embora, apesar de que, ainda que, mesmo que",
+                "Embora haja leis rígidas, o desmatamento continua."
+              ],
+              [
+                "Causa",
+                "porque, visto que, já que, devido a, em virtude de",
+                "O rio secou em virtude do desperdício de água."
+              ],
+              [
+                "Consequência / Conclusão",
+                "portanto, por conseguinte, logo, desse modo",
+                "Reciclamos os resíduos, portanto reduzimos o lixo."
+              ],
+              [
+                "Adição / Soma",
+                "além disso, não só... como também, ademais",
+                "Protegemos as nascentes; além disso, plantamos árvores."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Apesar de a cidade ter coleta seletiva, muitos moradores ainda misturam o lixo orgânico com o reciclável.",
+          "en": "Although the city has selective collection, many residents still mix organic waste with recyclables.",
+          "highlight": "Apesar de"
+        },
+        {
+          "pt": "A poluição dos oceanos aumentou; portanto, devemos banir os plásticos descartáveis.",
+          "en": "Ocean pollution has increased; therefore, we must ban single-use plastics.",
+          "highlight": "portanto"
+        }
+      ],
+      "contrastNotes": "'Embora' exige verbo no Subjuntivo ('Embora chova...', 'Embora houvesse...'), enquanto 'Apesar de' costuma vir com infinitivo ou substantivo ('Apesar da chuva...', 'Apesar de chover...')."
+    },
+    {
+      "id": "m8-g2",
+      "title": "Expressões de Sugestão, Hipótese e Possibilidade",
+      "category": "Modalização Discursiva",
+      "summary": "Fórmulas diplomáticas para propor ações ecológicas e debater soluções.",
+      "rules": [
+        {
+          "title": "Graus de Certeza e Sugestão",
+          "description": "Modulação de assertividade em discussões e redações.",
+          "items": [
+            "Sugestão direta: 'Uma alternativa viável seria...', 'Poderíamos implementar...'",
+            "Possibilidade / Hipótese: 'É provável que...', 'É possível que tenhamos resultados...'",
+            "Necessidade urgente: 'É imperativo que se reduza...', 'Torna-se indispensável...'"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Seria interessante se a universidade criasse postos de compostagem comunitária.",
+          "en": "It would be interesting if the university created community composting spots.",
+          "highlight": "Seria interessante se"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Sustentabilidade, Coleta Seletiva e Energia Limpa",
+    "culturalNotes": "O Brasil tem uma das matrizes elétricas mais limpas do mundo, com grande participação de hidrelétricas, energia eólica (destaque no Nordeste) e solar. No entanto, o país enfrenta grandes desafios na gestão de resíduos sólidos urbanos e conservação da Amazônia e do Cerrado.",
+    "dialogue": [
+      {
+        "speaker": "Ambientalista",
+        "text": "Se separarmos os resíduos eletrônicos corretamente, evitaremos que metais pesados contaminem o lençol freático.",
+        "translation": "If we separate electronic waste properly, we will prevent heavy metals from contaminating the water table."
+      },
+      {
+        "speaker": "Cidadão",
+        "text": "Concordo plenamente! Além disso, a prefeitura poderia instalar mais pontos de entrega voluntária nos bairros.",
+        "translation": "I completely agree! In addition, city hall could install more voluntary drop-off points in neighborhoods."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Coleta seletiva",
+        "translation": "Waste sorting / selective waste collection",
+        "example": "O caminhão da coleta seletiva passa às terças-feiras."
+      },
+      {
+        "word": "Lixo orgânico vs. reciclável",
+        "translation": "Organic waste vs. recyclable waste",
+        "example": "Restos de comida devem ir para a lixeira orgânica."
+      },
+      {
+        "word": "Pegada de carbono",
+        "translation": "Carbon footprint",
+        "example": "Usar transporte público diminui nossa pegada de carbono."
+      },
+      {
+        "word": "Lençol freático",
+        "translation": "Water table / groundwater",
+        "example": "O chorume dos lixões pode contaminar o lençol freático."
+      },
+      {
+        "word": "Energia renovável / limpa",
+        "translation": "Renewable / clean energy",
+        "example": "A energia solar é uma fonte renovável abundante no Brasil."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "É imprescindível que adotemos medidas de consumo consciente.",
+        "translation": "It is essential that we adopt conscious consumption measures.",
+        "situation": "Debates e ensaios argumentativos"
+      },
+      {
+        "phrase": "Por um lado..., por outro lado...",
+        "translation": "On the one hand..., on the other hand...",
+        "situation": "Contraponto de ideias"
+      },
+      {
+        "phrase": "Diante do exposto, propõe-se que...",
+        "translation": "In light of the above, it is proposed that...",
+        "situation": "Conclusão de proposta ambiental"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m8-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a opção que preenche a frase estabelecendo uma relação de CONCESSÃO: '________ a cidade tenha leis rigorosas contra o descarte ilegal, ainda vemos entulho nas ruas.'",
+      "options": [
+        "Embora",
+        "Portanto",
+        "Porque",
+        "Conforme"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Embora' introduz oração subordinada concessiva, expressando fato que se contrapõe à ideia principal sem impedi-la."
+    },
+    {
+      "id": "m8-p2",
+      "type": "multiple-choice",
+      "question": "Qual conectivo indica relação de CONSEQUÊNCIA / CONCLUSÃO?",
+      "options": [
+        "Portanto",
+        "Todavia",
+        "Visto que",
+        "Apesar de"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Portanto' é uma conjunção conclusiva/consecutiva, ligando uma consequência lógica à premissa anterior."
+    },
+    {
+      "id": "m8-p3",
+      "type": "fill-in-blank",
+      "question": "Complete com a locução adversativa adequada: 'O investimento em energia solar é alto; ________, a economia a longo prazo compensa o gasto.'",
+      "options": [
+        "no entanto",
+        "porque",
+        "já que",
+        "a fim de que"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'No entanto' expressa oposição/contraste (adversidade) entre o custo inicial e a economia futura."
+    },
+    {
+      "id": "m8-p4",
+      "type": "multiple-choice",
+      "question": "Qual é o termo em português para o líquido escuro e poluente resultante da decomposição de lixo em aterros?",
+      "options": [
+        "Chorume",
+        "Compostagem",
+        "Efluente solar",
+        "Biodigestor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Chorume' é o líquido resultante da decomposição de resíduos orgânicos, que deve ser tratado para não poluir o solo e a água."
+    },
+    {
+      "id": "m8-p5",
+      "type": "multiple-choice",
+      "question": "Assinale a frase em que o conectivo foi empregado INCORRETAMENTE:",
+      "options": [
+        "Reciclamos todo o papel, porque não tínhamos nenhuma preocupação ambiental.",
+        "Protegemos as matas ciliares, pois elas preservam os cursos d'água.",
+        "O clima está mudando; por isso, eventos extremos são mais comuns.",
+        "Ainda que seja difícil, precisamos diminuir o uso de plástico descartável."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Em 'Reciclamos todo o papel, porque não tínhamos nenhuma preocupação', o conectivo 'porque' estabelece uma contradição lógica com o sentido da oração."
+    }
+  ]
+}

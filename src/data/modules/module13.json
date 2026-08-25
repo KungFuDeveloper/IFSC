@@ -1,0 +1,270 @@
+{
+  "id": 13,
+  "number": 13,
+  "title": "Módulo 13 — Regência Verbal e Transitividade",
+  "subtitle": "Regência de verbos de movimento e estáticos, pronomes oblíquos e transitividade verbal",
+  "thematicContext": "Deslocamento Urbano, Transporte Público e Relações de Dependência Sintática",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m13-g1",
+      "title": "Regência Verbal: Conceito e Verbos Fundamentais",
+      "category": "Sintaxe de Regência",
+      "summary": "A regência verbal estuda a relação entre o verbo e seus complementos (objeto direto sem preposição vs. objeto indireto com preposição exigida).",
+      "rules": [
+        {
+          "title": "Tabela de Regência de Verbos Chave",
+          "description": "Diferenças fundamentais entre o uso formal culto e o uso coloquial no Brasil.",
+          "table": {
+            "headers": [
+              "Verbo",
+              "Norma Culta / Padrão",
+              "Uso Coloquial no Brasil",
+              "Exemplo Padrão"
+            ],
+            "rows": [
+              [
+                "Assistir (ver / presenciar)",
+                "Transitivo Indireto (pede preposição 'A')",
+                "Usa-se como direto ('assistir o filme')",
+                "Assistimos AO filme no cinema."
+              ],
+              [
+                "Ir / Chegar / Voltar (movimento)",
+                "Exigem preposição 'A' ou 'PARA'",
+                "Comumente usado com 'EM' ('fui no banco')",
+                "Fui AO banco. / Cheguei À rodoviária."
+              ],
+              [
+                "Obedecer / Desobedecer",
+                "Transitivo Indireto (pede 'A')",
+                "Frequentemente sem preposição na fala",
+                "O motorista obedeceu À sinalização."
+              ],
+              [
+                "Preferir",
+                "Pede preposição 'A' (sem 'do que')",
+                "Uso de 'mais... do que'",
+                "Prefiro o metrô AO ônibus."
+              ],
+              [
+                "Aspirar (desejar / almejar)",
+                "Transitivo Indireto (pede 'A')",
+                "Confundido com aspirar pó (direto)",
+                "O jovem aspira A um cargo público."
+              ],
+              [
+                "Visar (ter por objetivo)",
+                "Transitivo Indireto (pede 'A')",
+                "Usado sem preposição",
+                "A lei visa AO bem-estar coletivo."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Todos os dias vou ao trabalho de metrô e chego à estação central às 8h.",
+          "en": "Every day I go to work by subway and arrive at the central station at 8 AM.",
+          "highlight": "vou ao trabalho / chego à estação"
+        },
+        {
+          "pt": "Eles assistiram ao espetáculo de teatro no centro cultural.",
+          "en": "They watched the theater play at the cultural center.",
+          "highlight": "assistiram ao espetáculo"
+        }
+      ],
+      "contrastNotes": "No Brasil, dizer 'vou no mercado' é universal na língua falada cotidiana. No entanto, em redações, provas formais e escrita profissional, a norma culta prescreve 'vou ao mercado'."
+    },
+    {
+      "id": "m13-g2",
+      "title": "Regência de Verbos de Movimento vs. Verbos Estáticos",
+      "category": "Sintaxe Espacial",
+      "summary": "Verbos que indicam deslocamento pedem preposições dinâmicas (a, para); verbos estáticos pedem preposições de permanência (em).",
+      "rules": [
+        {
+          "title": "Contraste Dinâmico vs. Estático",
+          "description": "Adequação da preposição ao tipo de processo verbal.",
+          "table": {
+            "headers": [
+              "Tipo de Verbo",
+              "Preposição Adequada",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Movimento (ir, vir, voltar, retornar, chegar)",
+                "A / PARA",
+                "Vou a São Paulo. / Chegamos à rodoviária. / Retornei ao país."
+              ],
+              [
+                "Estático / Permanência (estar, morar, residir, ficar)",
+                "EM (no, na, nos, nas)",
+                "Moro em Curitiba. / Ficamos no hotel. / Permaneceu na sala."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Moro em Salvador há cinco anos, mas viajo a Brasília todo mês a trabalho.",
+          "en": "I have lived in Salvador for five years, but I travel to Brasília every month for work.",
+          "highlight": "Moro em / viajo a"
+        }
+      ]
+    },
+    {
+      "id": "m13-g3",
+      "title": "Pronomes Oblíquos e Transitividade (O/A vs. LHE)",
+      "category": "Morfossintaxe",
+      "summary": "Substituição de complementos diretos e indiretos pelos pronomes adequados.",
+      "rules": [
+        {
+          "title": "Emprego Correto de O/A e LHE",
+          "description": "Critério de transitividade verbal.",
+          "items": [
+            "Objeto Direto (sem preposição): o, a, os, as (ex.: Eu convidei o amigo → Eu o convidei)",
+            "Objeto Indireto (com preposição 'a'): lhe, lhes (ex.: Eu obedeci ao chefe → Eu lhe obedeci; Entreguei a carta ao professor → Entreguei-lhe a carta)",
+            "Atenção: Não se usa 'lhe' com verbos que pedem preposições diferentes de 'a' (ex.: gostar de → gosto dele, nunca 'gosto-lhe')."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O policial viu o pedestre e avisou-o sobre o perigo; em seguida, entregou-lhe o documento.",
+          "en": "The police officer saw the pedestrian and warned him about the danger; then, he handed him the document.",
+          "highlight": "avisou-o (direto) / entregou-lhe (indireto: a ele)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Mobilidade Urbana, Trânsito e Transporte Coletivo",
+    "culturalNotes": "Grandes capitais brasileiras contam com redes de metrô (como São Paulo e Rio de Janeiro), sistemas de BRT (ônibus de trânsito rápido pioneiros em Curitiba) e ciclovias em expansão. O Bilhete Único é o cartão eletrônico integrado de transporte.",
+    "dialogue": [
+      {
+        "speaker": "Usuário",
+        "text": "Com licença, esta linha de ônibus vai até o centro financeiro da cidade?",
+        "translation": "Excuse me, does this bus line go all the way to the city's financial center?"
+      },
+      {
+        "speaker": "Cobrador",
+        "text": "Vai sim! Você pode pagar com dinheiro ou encostar o cartão de transporte no validador.",
+        "translation": "Yes it does! You can pay with cash or tap your transit card on the validator."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Bilhete Único / Cartão de transporte",
+        "translation": "Integrated transit card",
+        "example": "Recarreguei meu bilhete único no aplicativo."
+      },
+      {
+        "word": "Faixa exclusiva de ônibus",
+        "translation": "Dedicated bus lane",
+        "example": "Os ônibus circulam mais rápido na faixa exclusiva."
+      },
+      {
+        "word": "Horário de pico / Horário de ponta",
+        "translation": "Rush hour",
+        "example": "O metrô fica lotado durante o horário de pico da tarde."
+      },
+      {
+        "word": "Integração tarifária",
+        "translation": "Fare integration / transfer discount",
+        "example": "A integração permite pegar metrô e ônibus com desconto."
+      },
+      {
+        "word": "Ciclovia / Ciclofaixa",
+        "translation": "Bike lane / cycle path",
+        "example": "Pedalar pela ciclovia da orla é muito agradável."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Onde posso recarregar o cartão de transporte?",
+        "translation": "Where can I top up the transit card?",
+        "situation": "Estações de metrô e terminais"
+      },
+      {
+        "phrase": "Este ônibus passa perto da estação de trem?",
+        "translation": "Does this bus pass near the train station?",
+        "situation": "Orientação de rotas"
+      },
+      {
+        "phrase": "Prefiro me deslocar a pé do que enfrentar o congestionamento.",
+        "translation": "I prefer walking than facing traffic congestion.",
+        "situation": "Opinião sobre transporte"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m13-p1",
+      "type": "multiple-choice",
+      "question": "De acordo com a norma culta da regência verbal, assinale a opção CORRETA para o verbo 'assistir' no sentido de ver/presenciar:",
+      "options": [
+        "Ontem nós assistimos ao filme premiado no cinema.",
+        "Ontem nós assistimos o filme premiado no cinema.",
+        "Ontem nós assistimos no filme premiado.",
+        "Ontem nós assistimos com o filme premiado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "No sentido de presenciar/ver, o verbo 'assistir' é transitivo indireto e rege a preposição 'a': assistir ao filme."
+    },
+    {
+      "id": "m13-p2",
+      "type": "multiple-choice",
+      "question": "Qual preposição deve ser usada com o verbo 'chegar' na norma padrão de movimento?",
+      "options": [
+        "Cheguei à estação às 7h.",
+        "Cheguei na estação às 7h.",
+        "Cheguei de a estação.",
+        "Cheguei sobre a estação."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verbos de movimento como 'chegar' e 'ir' exigem a preposição 'a' (ou 'para') na norma culta (chegar à estação)."
+    },
+    {
+      "id": "m13-p3",
+      "type": "fill-in-blank",
+      "question": "Complete com o pronome adequado: 'Encontrei o professor e entreguei-________ o trabalho final.'",
+      "options": [
+        "lhe",
+        "o",
+        "a",
+        "no"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Entregar' algo 'a alguém' pede objeto indireto de pessoa, substituído pelo pronome 'lhe' (entreguei a ele = entreguei-lhe)."
+    },
+    {
+      "id": "m13-p4",
+      "type": "multiple-choice",
+      "question": "Qual a construção correta com o verbo 'preferir' segundo a norma padrão?",
+      "options": [
+        "Prefiro caminhar a pegar o trânsito pesado.",
+        "Prefiro mais caminhar do que pegar o trânsito.",
+        "Prefiro antes caminhar que pegar trânsito.",
+        "Prefiro mil vezes caminhar do que trânsito."
+      ],
+      "correctAnswer": 0,
+      "explanation": "O verbo 'preferir' rege a preposição 'a' e rejeita termos intensificadores como 'mais', 'muito' ou 'do que' (Prefiro X a Y)."
+    },
+    {
+      "id": "m13-p5",
+      "type": "multiple-choice",
+      "question": "Qual a diferença de regência entre 'morar' e 'ir'?",
+      "options": [
+        "'Morar' é estático e rege preposição 'em'; 'Ir' indica movimento e rege 'a/para'.",
+        "Ambos regem a mesma preposição 'em'.",
+        "'Morar' exige preposição 'a' e 'ir' exige 'de'.",
+        "Não há diferença sintática entre eles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verbos estáticos (morar, residir) regem 'em' (Moro em Salvador); verbos de movimento (ir, chegar) regem 'a' ou 'para' (Vou a Salvador)."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": 15,
+  "number": 15,
+  "title": "Módulo 15 — Narrativa e Pontuação Expressiva",
+  "subtitle": "Estrutura da narrativa, contraste Pretérito Perfeito x Imperfeito, marcadores temporais e reticências (...)",
+  "thematicContext": "Crônicas Literárias Brasileiras, Contos e Narrativas de Suspense",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m15-g1",
+      "title": "Contraste Fundamental: Pretérito Perfeito x Pretérito Imperfeito",
+      "category": "Morfologia Verbal e Narratologia",
+      "summary": "O domínio da alternância entre o Perfeito (fio condutor da ação em primeiro plano) e o Imperfeito (cenário, estado e pano de fundo) é a chave da fluência narrativa em português.",
+      "rules": [
+        {
+          "title": "Funções Narrativas dos Tempos do Passado",
+          "description": "Como articular o primeiro plano e o segundo plano de um conto ou crônica.",
+          "table": {
+            "headers": [
+              "Tempo Verbal",
+              "Papel na Narrativa",
+              "Exemplo Típico"
+            ],
+            "rows": [
+              [
+                "Pretérito Imperfeito",
+                "Pano de fundo (background): descreve o clima, estado emocional, ações contínuas ou habituais",
+                "A noite estava escura e o vento soprava forte pelas árvores..."
+              ],
+              [
+                "Pretérito Perfeito",
+                "Primeiro plano (foreground): ação pontual que avança a história e quebra o estado anterior",
+                "...quando, subitamente, uma porta se abriu com estrondo."
+              ],
+              [
+                "Pretérito Mais-que-perfeito",
+                "Ação anterior a outra ação do passado (passado do passado)",
+                "Ele percebeu que alguém já entrara / tinha entrado na casa."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Era uma tarde ensolarada e as crianças brincavam tranquilas no jardim, quando um trovão retumbou no horizonte.",
+          "en": "It was a sunny afternoon and the children were playing peacefully in the garden, when a thunderclap rumbled on the horizon.",
+          "highlight": "Era / brincavam (imperfeito) vs. retumbou (perfeito)"
+        }
+      ],
+      "contrastNotes": "Na fala brasileira moderna, o Mais-que-perfeito composto ('tinha feito', 'havia chegado') é quase 100% predominante em relação à forma sintética literária ('fizera', 'chegara')."
+    },
+    {
+      "id": "m15-g2",
+      "title": "Marcadores Temporais em Narrativas",
+      "category": "Coesão e Sequenciação Temporal",
+      "summary": "Recursos linguísticos para acelerar o ritmo, criar suspense ou marcar transições cronológicas.",
+      "rules": [
+        {
+          "title": "Marcadores de Sequenciação Narrativa",
+          "description": "Expressões que organizam o fluxo dos acontecimentos.",
+          "items": [
+            "Início / Contexto: 'Tudo começou quando...', 'Era uma vez...', 'Em uma manhã de outono...'",
+            "Clímax / Quebra: 'De repente...', 'Subitamente...', 'No exato instante em que...'",
+            "Desenlace / Desfecho: 'Por fim...', 'Finalmente...', 'Desde aquele dia em diante...'"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "No exato instante em que ele pegou a chave, as luzes do corredor se apagaram.",
+          "en": "At the exact instant he grabbed the key, the hallway lights went out.",
+          "highlight": "No exato instante em que"
+        }
+      ]
+    },
+    {
+      "id": "m15-g3",
+      "title": "Pontuação Expressiva: O Uso das Reticências (...)",
+      "category": "Pontuação e Estilística",
+      "summary": "As reticências indicam suspensão de pensamento, hesitação, continuidade subentendida ou suspense.",
+      "rules": [
+        {
+          "title": "Funções Estilísticas das Reticências",
+          "description": "Quando e como utilizar reticências em textos narrativos e diálogos.",
+          "table": {
+            "headers": [
+              "Efeito de Sentido",
+              "Contexto de Uso",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Hesitação / Dúvida",
+                "A personagem hesita ao falar",
+                "— Eu... eu não sei como te dizer isso..."
+              ],
+              [
+                "Suspense / Quebra proposital",
+                "Deixa o leitor esperando o desfecho",
+                "Abriu a gaveta devagar e lá estava... a carta misteriosa."
+              ],
+              [
+                "Ideia em aberto / Prolongamento",
+                "Sinaliza que algo continua",
+                "Pensou nos erros do passado, nos dias que não voltam mais..."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Ele olhou para a velha fotografia e murmurou: — Se ao menos eu tivesse coragem...",
+          "en": "He looked at the old photograph and murmured: — If only I had courage...",
+          "highlight": "tivesse coragem..."
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "A Crônica Brasileira: Cotidiano e Poesia Urbana",
+    "culturalNotes": "A crônica é um dos gêneros mais representativos da literatura brasileira, nascida nos jornais diários. Mestres como Rubem Braga, Clarice Lispector, Fernando Sabino e Luis Fernando Verissimo transformam pequenos episódios da vida urbana em reflexões poéticas e bem-humoradas.",
+    "dialogue": [
+      {
+        "speaker": "Leitor",
+        "text": "Adoro as crônicas de Rubem Braga! A maneira como ele descreve um simples passarinho na janela é pura poesia.",
+        "translation": "I love Rubem Braga's chronicles! The way he describes a simple little bird on the window is pure poetry."
+      },
+      {
+        "speaker": "Amiga",
+        "text": "Verdade! Ele combina pretérito imperfeito para criar a atmosfera e reticências para deixar o pensamento flutuando no ar...",
+        "translation": "True! He combines the imperfect tense to create atmosphere and ellipses to leave the thought floating in the air..."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Crônica",
+        "translation": "Chronicle (short literary narrative on everyday life)",
+        "example": "Li uma crônica comovente sobre as ruas do Rio de Janeiro."
+      },
+      {
+        "word": "Enredo",
+        "translation": "Plot / storyline",
+        "example": "O enredo do conto gira em torno de um mal-entendido cômico."
+      },
+      {
+        "word": "Desfecho / Clímax",
+        "translation": "Outcome / Climax",
+        "example": "O desfecho da história surpreendeu todos os leitores."
+      },
+      {
+        "word": "Ponto de vista narrativo",
+        "translation": "Narrative point of view (1st or 3rd person)",
+        "example": "A narrativa em primeira pessoa transmite grande intimidade."
+      },
+      {
+        "word": "Suspense",
+        "translation": "Suspense / tension",
+        "example": "O autor soube manter o suspense até a última linha."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Era uma daquelas noites em que nada parecia real...",
+        "translation": "It was one of those nights when nothing seemed real...",
+        "situation": "Início evocativo de conto"
+      },
+      {
+        "phrase": "Subitamente, o silêncio foi quebrado por um ruído estranho.",
+        "translation": "Suddenly, the silence was broken by a strange noise.",
+        "situation": "Momento de clímax"
+      },
+      {
+        "phrase": "E assim se passaram os anos...",
+        "translation": "And so the years went by...",
+        "situation": "Fecho com reticências"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m15-p1",
+      "type": "multiple-choice",
+      "question": "Assinale a opção em que a frase apresenta a combinação perfeita de PANO DE FUNDO (imperfeito) e AÇÃO PONTUAL (perfeito):",
+      "options": [
+        "Enquanto o sol se punha no horizonte, o viajante avistou a aldeia distante.",
+        "O viajante avistou a aldeia e o sol se pôs.",
+        "O sol se punha e o viajante caminhava.",
+        "O viajante tinha avistado a aldeia quando o sol se poria."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Enquanto o sol se punha' (imperfeito, descrição de cenário) harmoniza perfeitamente com 'o viajante avistou' (perfeito, evento pontual que quebra o estado)."
+    },
+    {
+      "id": "m15-p2",
+      "type": "multiple-choice",
+      "question": "Qual o principal efeito expressivo das RETICÊNCIAS (...) na frase '— Eu pretendia dizer toda a verdade, mas quando olhei para ela...'?",
+      "options": [
+        "Indicar hesitação e interrupção do pensamento com ideia suspensa.",
+        "Marcar o fim definitivo de uma lista de compras.",
+        "Substituir o ponto de interrogação em uma pergunta direta.",
+        "Indicar que a frase é uma citação acadêmica da ABNT."
+      ],
+      "correctAnswer": 0,
+      "explanation": "As reticências assinalam corte ou suspensão proposital do fluxo discursivo, convidando o leitor a subentender o restante."
+    },
+    {
+      "id": "m15-p3",
+      "type": "fill-in-blank",
+      "question": "Qual conectivo temporal indica uma quebra súbita na narrativa? 'O rapaz caminhava sozinho quando, ________, ouviu passos atrás de si.'",
+      "options": [
+        "de repente",
+        "desde que",
+        "antigamente",
+        "à medida que"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'De repente' expressa instantaneidade e quebra abrupta, essencial para o ritmo narrativo."
+    },
+    {
+      "id": "m15-p4",
+      "type": "multiple-choice",
+      "question": "O gênero literário 'crônica', muito popular no Brasil, caracteriza-se fundamentalmente por:",
+      "options": [
+        "Textos curtos inspirados no cotidiano, com linguagem próxima do leitor, humor ou reflexão lírica.",
+        "Tratados científicos formais de cem páginas com estatísticas complexas.",
+        "Roteiros de peças teatrais escritas em versos medievais.",
+        "Contratos jurídicos assinados perante tabelião."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A crônica brasileira é marcada pela brevidade, sensibilidade diante de pequenos fatos cotidianos e tom de conversa com o leitor."
+    },
+    {
+      "id": "m15-p5",
+      "type": "multiple-choice",
+      "question": "No passado do passado ('passado anterior a outro passado'), qual forma é mais comum na linguagem falada brasileira moderna?",
+      "options": [
+        "A forma composta com tinha + particípio (ex.: 'Quando cheguei, ele já tinha saído').",
+        "A forma simples arcaica (ex.: 'ele já saíra').",
+        "O futuro do presente.",
+        "O presente contínuo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Na língua falada e escrita cotidiana, o mais-que-perfeito composto ('tinha saído') é a forma natural de expressar o passado anterior."
+    }
+  ]
+}

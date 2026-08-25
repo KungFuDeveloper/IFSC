@@ -1,0 +1,296 @@
+{
+  "id": 5,
+  "number": 5,
+  "title": "Módulo 5 — Serviços Bancários e Pronomes",
+  "subtitle": "Vocabulário bancário, pronomes de tratamento e oblíquos, verbo 'solicitar' e acentuação de ditongos e hiatos",
+  "thematicContext": "Serviços Bancários, Câmbio e Correspondência Formal",
+  "estimatedMinutes": 55,
+  "grammarTopics": [
+    {
+      "id": "m5-g1",
+      "title": "Pronomes de Tratamento e Formalidade em Atendimento",
+      "category": "Morfologia e Pragmática",
+      "summary": "Uso de 'Senhor / Senhora', 'Você' e fórmulas de cortesia em ambientes bancários e institucionais.",
+      "rules": [
+        {
+          "title": "Níveis de Formalidade e Concordância",
+          "description": "Embora se refiram à pessoa com quem se fala (2ª pessoa do discurso), todos os pronomes de tratamento exigem concordância verbal na 3ª pessoa.",
+          "table": {
+            "headers": [
+              "Pronome de Tratamento",
+              "Abreviatura",
+              "Contexto de Uso",
+              "Concordância Verbal"
+            ],
+            "rows": [
+              [
+                "O Senhor / A Senhora",
+                "Sr. / Sra.",
+                "Atendimento bancário, clientes mais velhos ou respeito formal",
+                "O senhor precisa de ajuda? (3ª pessoa)"
+              ],
+              [
+                "Vossa Senhoria",
+                "V. Sa.",
+                "Correspondências comerciais e ofícios formais",
+                "Vossa Senhoria solicitou o extrato."
+              ],
+              [
+                "Você / Vocês",
+                "você",
+                "Atendimento em fintechs / bancos digitais modernos",
+                "Você pode transferir via Pix pelo app."
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "A senhora poderia digitar sua senha no teclado, por favor?",
+          "en": "Could you type your password on the keypad, ma'am, please?",
+          "highlight": "A senhora poderia digitar"
+        },
+        {
+          "pt": "Vimos por meio desta solicitar a atualização cadastral de Vossa Senhoria.",
+          "en": "We hereby request Your Lordship's/Your Honor's registration update.",
+          "highlight": "solicitar a atualização"
+        }
+      ]
+    },
+    {
+      "id": "m5-g2",
+      "title": "Pronomes Oblíquos Retomando Referentes Textuais",
+      "category": "Sintaxe",
+      "summary": "Os pronomes oblíquos átonos (o, a, os, as / me, te, se, nos, lhe, lhes) evitam repetições desnecessárias ao retomar termos já mencionados.",
+      "rules": [
+        {
+          "title": "Variações dos Pronomes Diretos (o, a, os, as)",
+          "description": "Adaptações fonéticas conforme a terminação do verbo anterior.",
+          "table": {
+            "headers": [
+              "Condição do Verbo",
+              "Transformação do Pronome",
+              "Exemplo"
+            ],
+            "rows": [
+              [
+                "Verbo termina em -r, -s ou -z",
+                "Corta a terminação + lo, la, los, las",
+                "solicitar + o = solicitá-lo; fazer + a = fazê-la"
+              ],
+              [
+                "Verbo termina em som nasal (-m, -ão)",
+                "Vira no, na, nos, nas",
+                "entregaram + o = entregaram-no; retêm + as = retêm-nas"
+              ],
+              [
+                "Verbo transitivo indireto (pede 'a')",
+                "Usa-se LHE / LHES",
+                "Pagar ao gerente → Pagar-lhe"
+              ]
+            ]
+          }
+        }
+      ],
+      "examples": [
+        {
+          "pt": "O cliente pediu o comprovante e o atendente entregou-o imediatamente.",
+          "en": "The client asked for the receipt and the clerk handed it over immediately.",
+          "highlight": "entregou-o"
+        },
+        {
+          "pt": "Preciso abrir uma conta corrente e pretendo fazê-lo ainda hoje.",
+          "en": "I need to open a checking account and I intend to do it today.",
+          "highlight": "fazê-lo"
+        }
+      ]
+    },
+    {
+      "id": "m5-g3",
+      "title": "Verbo 'Solicitar' e a Locução 'Vir (aux.) + Solicitar'",
+      "category": "Sintaxe Formal e Correspondência",
+      "summary": "Expressões consagradas no registro epistolar e em cartas de requerimento no Brasil.",
+      "rules": [
+        {
+          "title": "Uso de 'Venho por meio desta solicitar...'",
+          "description": "Fórmula padrão para iniciar requerimentos oficiais, contestações bancárias ou pedidos de documentos.",
+          "items": [
+            "Venho solicitar o cancelamento da tarifa cobrada indevidamente.",
+            "Vimos por meio deste solicitar a prorrogação do prazo de pagamento."
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Venho por meio desta solicitar a emissão de um novo cartão com chip.",
+          "en": "I hereby request the issuance of a new chip card.",
+          "highlight": "Venho por meio desta solicitar"
+        }
+      ]
+    },
+    {
+      "id": "m5-g4",
+      "title": "Acentuação Gráfica: Ditongos e Hiatos",
+      "category": "Ortografia Oficial",
+      "summary": "Regras do Novo Acordo Ortográfico para ditongos abertos (éi, ói) e hiatos tônicos (i, u).",
+      "rules": [
+        {
+          "title": "Regra dos Hiatos Tônicos (I e U)",
+          "description": "Acentuam-se 'i' e 'u' tônicos quando formam hiato com a vogal anterior, sozinhos na sílaba ou com 's', desde que não seguidos de 'nh'.",
+          "items": [
+            "Recebem acento: sa-ú-de, sa-í-da, pa-ís, ba-ú, ju-í-zes",
+            "Não recebem acento: ra-iz (termina em z), sa-ir (termina em r), ra-i-nha (seguido de nh)"
+          ]
+        },
+        {
+          "title": "Ditongos Abertos (ÉI, ÓI)",
+          "description": "Com o Acordo Ortográfico, só são acentuados em palavras oxítonas ou monossílabos.",
+          "items": [
+            "Oxítonas/monossílabos (COM acento): he-rói, pa-péis, cons-trói, céu",
+            "Paroxítonas (SEM acento): i-dei-a, pla-tei-a, ji-boi-a, as-sem-blei-a"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "pt": "Para abrir a conta no país, é preciso apresentar comprovante de residência.",
+          "en": "To open an account in the country, you must provide proof of residence.",
+          "highlight": "pa-ís (hiato tônico)"
+        },
+        {
+          "pt": "Minha ideia é pagar todas as faturas pelo débito automático.",
+          "en": "My idea is to pay all invoices via direct debit.",
+          "highlight": "ideia (paroxítona com ditongo aberto - sem acento)"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "situationTitle": "Transações Bancárias, Pix e Câmbio no Brasil",
+    "culturalNotes": "No Brasil, o Pix é o sistema de pagamentos instantâneos mais popular, gratuito para pessoas físicas e funcionando 24 horas por dia, 7 dias por semana por meio de chaves (CPF, e-mail, telefone ou chave aleatória).",
+    "dialogue": [
+      {
+        "speaker": "Cliente",
+        "text": "Bom dia! Eu gostaria de fazer uma transferência para outra conta, mas não sei se aceita Pix.",
+        "translation": "Good morning! I'd like to make a transfer to another account, but I don't know if it takes Pix."
+      },
+      {
+        "speaker": "Gerente",
+        "text": "Bom dia! O Pix é aceito em todo o país. O senhor pode cadastrar sua chave no aplicativo do banco agora mesmo.",
+        "translation": "Good morning! Pix is accepted nationwide. You can register your key in the bank app right now, sir."
+      }
+    ],
+    "thematicWords": [
+      {
+        "word": "Chave Pix",
+        "translation": "Pix key (instant payment identifier)",
+        "example": "Qual é a sua chave Pix para eu transferir o dinheiro?"
+      },
+      {
+        "word": "Extrato bancário",
+        "translation": "Bank statement",
+        "example": "Tirei um extrato dos últimos 30 dias no caixa eletrônico."
+      },
+      {
+        "word": "Caixa eletrônico / ATM",
+        "translation": "ATM machine",
+        "example": "Vou ao caixa eletrônico sacar duzentos reais."
+      },
+      {
+        "word": "Conta corrente / Conta poupança",
+        "translation": "Checking account / Savings account",
+        "example": "O salário é depositado na conta corrente."
+      },
+      {
+        "word": "Taxa de câmbio",
+        "translation": "Exchange rate",
+        "example": "A taxa de câmbio do dólar para o real oscilou bastante hoje."
+      }
+    ],
+    "usefulPhrases": [
+      {
+        "phrase": "Gostaria de solicitar um empréstimo / financiamento.",
+        "translation": "I would like to apply for a loan / financing.",
+        "situation": "Consultar crédito"
+      },
+      {
+        "phrase": "O caixa eletrônico engoliu meu cartão!",
+        "translation": "The ATM swallowed my card!",
+        "situation": "Relatar problema urgente"
+      },
+      {
+        "phrase": "Qual é o limite diário para saques e transferências?",
+        "translation": "What is the daily limit for withdrawals and transfers?",
+        "situation": "Consultar limites"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "id": "m5-p1",
+      "type": "multiple-choice",
+      "question": "Junte o verbo 'solicitar' no infinitivo com o pronome 'o' referindo-se ao documento: 'O advogado precisa do documento e vai ________ ao banco amanhã.'",
+      "options": [
+        "solicitá-lo",
+        "solicitar-o",
+        "solicita-no",
+        "solicitar-lhe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verbos terminados em -r perdem a consoante e recebem o pronome com 'l' (solicitar + o = solicitá-lo, com acento agudo por virar oxítona em -a)."
+    },
+    {
+      "id": "m5-p2",
+      "type": "multiple-choice",
+      "question": "Assinale a alternativa em que a palavra destacada NÃO deve levar acento gráfico de acordo com o Novo Acordo Ortográfico:",
+      "options": [
+        "A ide-ia de pagar com Pix é ótima.",
+        "A sa-ú-de financeira da empresa vai bem.",
+        "Ele viajou pelo pa-ís inteiro.",
+        "O ba-ú antigo foi aberto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ditongos abertos (ei, oi) em palavras paroxítonas como 'ideia', 'plateia', 'jiboia' perderam o acento gráfico no Acordo Ortográfico."
+    },
+    {
+      "id": "m5-p3",
+      "type": "fill-in-blank",
+      "question": "Complete a correspondência formal: 'Venho por meio desta ________ a devolução do valor cobrado.'",
+      "options": [
+        "solicitar",
+        "solicitando",
+        "solicitei",
+        "solicita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A fórmula de correspondência formal utiliza a locução verbal com verbo no infinitivo: 'Venho por meio desta solicitar...'"
+    },
+    {
+      "id": "m5-p4",
+      "type": "multiple-choice",
+      "question": "Por que a palavra 'saúde' recebe acento gráfico?",
+      "options": [
+        "Porque a vogal 'u' é tônica, forma hiato com a vogal anterior 'a' e está sozinha na sílaba.",
+        "Porque é uma oxítona terminada em -e.",
+        "Porque é uma proparoxítona.",
+        "Porque possui ditongo aberto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pela regra dos hiatos: 'i' e 'u' tônicos formando hiato com vogal anterior e sozinhos na sílaba (sa-ú-de) são acentuados."
+    },
+    {
+      "id": "m5-p5",
+      "type": "multiple-choice",
+      "question": "No contexto financeiro brasileiro moderno, o que é o 'Pix'?",
+      "options": [
+        "O sistema oficial de transferências instantâneas e gratuitas do Banco Central do Brasil.",
+        "Um imposto federal sobre compras com cartão.",
+        "Uma taxa de cancelamento de cartão de crédito.",
+        "O papel moeda físico emitido pela Casa da Moeda."
+      ],
+      "correctAnswer": 0,
+      "explanation": "O Pix é o sistema de pagamentos e transferências eletrônicas instantâneas criado pelo Banco Central do Brasil."
+    }
+  ]
+}
